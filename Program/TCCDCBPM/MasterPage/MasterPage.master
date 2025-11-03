@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage_MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="content-language" content="zh-TW" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords" content="關鍵字內容" />
+<meta name="description" content="描述" /><!--告訴搜尋引擎這篇網頁的內容或摘要。-->
+<meta name="generator" content="Notepad" /><!--告訴搜尋引擎這篇網頁是用什麼軟體製作的。-->
+<meta name="author" content="ochison" /><!--告訴搜尋引擎這篇網頁是由誰製作的。-->
+<meta name="copyright" content="本網頁著作權所有" /><!--告訴搜尋引擎這篇網頁是...... -->
+<meta name="revisit-after" content="3 days" /><!--告訴搜尋引擎3天之後再來一次這篇網頁，也許要重新登錄。-->
+<title>電子公文系統</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+        <link rel="stylesheet" href="../css/bootstrap.min.css" /><!-- bootstrap 5.3.3 -->
+        <link rel="stylesheet" href="../css/wrapkitStyle.css" />
+        <link rel="stylesheet" href="../css/fontawesome.min.css"><!-- css icon fontawesome 6.6 -->
+        <link rel="stylesheet" href="../css/OCsdiebarmenu.css" />
+        <link rel="stylesheet" href="../css/OClayout.css" /><!-- sidebar menu -->
+        <link rel="stylesheet" href="../css/style.css" /><!-- 本系統專用 -->
+        <script src="../js/bootstrap.bundle.min.js"></script><!-- bootstrap 5.3 -->
+        <script src="../js/OCsdiebarmenu.js"></script>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

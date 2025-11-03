@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="content-language" content="zh-TW" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="keywords" content="關鍵字內容" />
+  <meta name="description" content="描述" /><!--告訴搜尋引擎這篇網頁的內容或摘要。-->
+  <meta name="generator" content="Notepad" /><!--告訴搜尋引擎這篇網頁是用什麼軟體製作的。-->
+  <meta name="author" content="ochison" /><!--告訴搜尋引擎這篇網頁是由誰製作的。-->
+  <meta name="copyright" content="本網頁著作權所有" /><!--告訴搜尋引擎這篇網頁是...... -->
+  <meta name="revisit-after" content="3 days" /><!--告訴搜尋引擎3天之後再來一次這篇網頁，也許要重新登錄。-->
+  <title>網站原型</title>
+
+  <link rel="stylesheet" href="css/bootstrap.min.css" /><!-- bootstrap 5.3.3 -->
+  <link rel="stylesheet" href="css/wrapkitStyle.css" />
+  <link rel="stylesheet" href="css/fontawesome.min.css"><!-- css icon fontawesome 6.6 -->
+  <link rel="stylesheet" href="css/OCsdiebarmenu.css" />
+  <link rel="stylesheet" href="css/OClayout.css" /><!-- sidebar menu -->
+  <link rel="stylesheet" href="css/style.css" /><!-- 本系統專用 -->
+  <script src="js/bootstrap.bundle.min.js"></script><!-- bootstrap 5.3 -->
+  <script src="js/OCsdiebarmenu.js"></script>
+</head>
+<body>
+<div id="basecontentwrapper" class="d-flexOchi flex-column flex-content-between">
+  <div id="mainheaderwrapper">
+
+    <div id="mainheader" class="d-flexOchi align-items-center justify-content-between">
+      <div id="headerlogo" class="d-flexOchi align-items-center">
+        <div class="d-inline-block"><button class="btn btn-primary btn-xs" id="sidebarToggle"><i class="fas fa-bars "></i></button></div>
+        <div class="d-inline-block ms-1"><img src="images/logo_w.svg" height="30" class="ms-2"></div>
+        <div class="d-inline-block ms-1 fs-4 fw-bolder logocolor">公文與簽辦系統</div>
+      </div><!-- headerlogo -->
+      <div id="headerinfo" class="text-white ">
+        您好 黃金貝
+        ｜<a href="#" class="link-light">itriweb</a>｜<a href="#" class="link-light">登出</a>
+      </div><!-- headerinfo -->
+    </div><!-- mainheader -->
+
+  </div><!-- mainheaderwrapper -->
+  <div id="maincontent" class="flex-grow-1 d-flexOchi align-items-stretch">
+    <div id="sidebar-wrapper" class="bg-white">
+      <div class="metismenubox" id="promenu">
+        <nav class="sidebarmenu">
+          <ul>
+            <li>
+              <div class="menuitemwrapper">
+                <div class="flex-fill">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#handlebox">公文儀表板</a>
+                </div>
+                <div class="text-nowrap"><span class="icon"><i class="fa-solid fa-chevron-right"></i></span></div>
+              </div>
+            </li>
+            <li>
+              <div class="menuitemwrapper">
+                <div class="flex-fill">
+                  <a href="https://www.google.com/" target="_blank">我的公文匣</a>
+                </div>
+                <div class="text-nowrap"><span class="icon"><i class="fa-solid fa-chevron-right"></i></span></div>
+              </div>
+              <ul class="submenu">
+                <li>
+                  <div class="menuitemwrapper">
+                    <div class="flex-fill">
+                      <a href="https://www.google.com/" target="_blank">待處理公文</a>
+                    </div>
+                    <div class="text-nowrap"><span class="icon"><i class="fa-solid fa-chevron-right"></i></span></div>
+                  </div>
+                </li>
+                <li>
+                  <div class="menuitemwrapper">
+                    <div class="flex-fill">
+                      <a href="https://www.google.com/" target="_blank">代理人公文</a>
+                    </div>
+                    <div class="text-nowrap"><span class="icon"><i class="fa-solid fa-chevron-right"></i></span></div>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <div class="menuitemwrapper">
+                <div class="flex-fill">
+                  <a href="https://www.google.com/" target="_blank">公文製作</a>
+                </div>
+                <div class="text-nowrap"><span class="icon"><i class="fa-solid fa-chevron-right"></i></span></div>
+              </div>
+              <ul class="submenu">
+                <li>
+                  <div class="menuitemwrapper">
+                    <div class="flex-fill">
+                      <a href="https://www.google.com/" target="_blank">文件用印申請單</a>
+                    </div>
+                    <div class="text-nowrap"><span class="icon"><i class="fa-solid fa-chevron-right"></i></span></div>
+                  </div>
+                </li>
+                <li>
+                  <div class="menuitemwrapper">
+                    <div class="flex-fill">
+                      <a href="https://www.google.com/" target="_blank">繳銷廢舊印信申請單</a>
+                    </div>
+                    <div class="text-nowrap"><span class="icon"><i class="fa-solid fa-chevron-right"></i></span></div>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </div><!-- metismenubox -->
+
+
+
+    </div><!-- sidebar-wrapper -->
+    <div class="flex-grow-1">
+
+      <div class="container-ochi w-large-ochi mt-2" id="pagecontent">
+
+        <nav class="itribreadcrumb d-none d-md-block" aria-label="breadcrumb">
+          <ol class="breadcrumb bg-transparent">
+            <li class="breadcrumb-item"><a href="#">首頁</a></li>
+            <li class="breadcrumb-item active" aria-current="page">頁面標題</li>
+          </ol>
+        </nav>
+
+        <div class="filetitlewrapper mt-1">
+          <span class="filetitle"><h2>頁面標題</h2></span>
+          <span class="itemright"></span>
+        </div>
+
+      </div><!-- container-ochi -->
+
+    </div><!-- flex-grow-1 -->
+  </div><!-- maincontent -->
+  <div id="mainfooter">
+    <div>版權所有© 2025 ITRI. 工業技術研究院著作</div>
+  </div><!-- mainfooter -->
+</div><!-- d-flex -->
+
+</body>
+<script src="js/syscommon.js"></script><!-- page common -->
+
+</html>

@@ -1,0 +1,47 @@
+@charset "utf-8";
+.sidebarmenu {
+    width: 100%;
+    overflow-x: hidden;
+}
+.sidebarmenu .menuitemwrapper{display: flex;align-items: center;justify-content: space-between;}
+.sidebarmenu a{color: #171717; text-decoration: none; display: block;}
+
+.sidebarmenu ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebarmenu ul li {
+    position: relative;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.sidebarmenu ul li > .menuitemwrapper{
+    cursor: pointer;
+    transition: background-color 0.3s;
+    padding: 10px 5px;
+}
+
+.sidebarmenu ul li > .menuitemwrapper:hover {
+
+}
+.sidebarmenu ul li .icon {
+    display: inline-block; /* 确保transform有效 */
+    transition: transform 0.3s;
+    padding-right: 8px;
+}
+.sidebarmenu ul li .submenu {
+    display: none;
+    border-top:1px solid #e5e5e5;
+    background: rgba(0,0,0,0.05);
+}
+.sidebarmenu ul li.open > .menuitemwrapper .text-nowrap .icon {
+    transform: rotate(90deg);
+    padding-right: 8px;
+}
+.sidebarmenu ul li.open > .submenu {
+    display: block;
+}
+
+
