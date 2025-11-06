@@ -14,26 +14,28 @@
 <meta name="copyright" content="本網頁著作權所有" /><!--告訴搜尋引擎這篇網頁是...... -->
 <meta name="revisit-after" content="3 days" /><!--告訴搜尋引擎3天之後再來一次這篇網頁，也許要重新登錄。-->
 <title>電子公文系統</title>
+<link rel="stylesheet" href="<%= ResolveUrl("~/css/bootstrap.min.css") %>" /><!-- bootstrap 5.3.3 -->
+<link rel="stylesheet" href="<%= ResolveUrl("~/css/wrapkitStyle.css") %>" />
+<link rel="stylesheet" href="<%= ResolveUrl("~/css/fontawesome.min.css") %>" /><!-- css icon fontawesome 6.6 -->
+<link rel="stylesheet" href="<%= ResolveUrl("~/css/OCsdiebarmenu.css") %>" />
+<link rel="stylesheet" href="<%= ResolveUrl("~/css/OClayout.css") %>" /><!-- sidebar menu -->
+<link rel="stylesheet" href="<%= ResolveUrl("~/css/style.css") %>" /><!-- 本系統專用 -->
+<script src="<%= ResolveUrl("~/js/bootstrap.bundle.min.js") %>"></script><!-- bootstrap 5.3 -->
+<script src="<%= ResolveUrl("~/js/OCsdiebarmenu.js") %>"></script>
     <asp:ContentPlaceHolder id="head" runat="server">
-        <link rel="stylesheet" href="<%= ResolveUrl("~/css/bootstrap.min.css") %>" /><!-- bootstrap 5.3.3 -->
-        <link rel="stylesheet" href="<%= ResolveUrl("~/css/wrapkitStyle.css") %>" />
-        <link rel="stylesheet" href="<%= ResolveUrl("~/css/fontawesome.min.css") %>" /><!-- css icon fontawesome 6.6 -->
-        <link rel="stylesheet" href="<%= ResolveUrl("~/css/OCsdiebarmenu.css") %>" />
-        <link rel="stylesheet" href="<%= ResolveUrl("~/css/OClayout.css") %>" /><!-- sidebar menu -->
-        <link rel="stylesheet" href="<%= ResolveUrl("~/css/style.css") %>" /><!-- 本系統專用 -->
-        <script src="<%= ResolveUrl("~/js/bootstrap.bundle.min.js") %>"></script><!-- bootstrap 5.3 -->
-        <script src="<%= ResolveUrl("~/js/OCsdiebarmenu.js") %>"></script>
+        
     </asp:ContentPlaceHolder>
 </head>
 <body>
     <form id="form1" runat="server">
     <div id="basecontentwrapper" class="d-flexOchi flex-column flex-content-between">
-        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
-            <!--#include file="Header.html"-->
-            <div id="maincontent" class="flex-grow-1 d-flexOchi align-items-stretch">
-                <!--#include file="LeftMenu.html"-->
-            </div>            
-        </asp:ContentPlaceHolder>
+        <!--#include file="../WebPage/Header.html"-->
+        <div id="maincontent" class="flex-grow-1 d-flexOchi align-items-stretch">
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                           
+            </asp:ContentPlaceHolder>
+        </div>
+        <!--#include file="../WebPage/Footer.html"-->
     </div>
     </form>
 </body>
