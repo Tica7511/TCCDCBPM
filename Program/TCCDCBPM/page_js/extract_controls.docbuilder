@@ -1,0 +1,17 @@
+﻿var document = Api.GetDocument();
+
+var contentControls = document.GetAllContentControls();
+
+var fs = require("fs");
+var output = "";
+
+for (var i = 0; i < contentControls.length; i++) {
+    var cc = contentControls[i];
+    output += "Tag: " + cc.GetTag() + "\n";
+    output += "Title: " + cc.GetTitle() + "\n";
+    output += "Type: " + cc.GetType() + "\n";
+    output += "Text: " + cc.GetText() + "\n";
+    output += "-----\n";
+}
+
+fs.WriteTextFile("output.txt", output);

@@ -1,0 +1,15 @@
+var doc = Api.GetDocument();
+var controls = doc.GetAllContentControls();
+var result = [];
+
+for (var i = 0; i < controls.length; i++) {
+    var ctrl = controls[i];
+    result.push({
+        tag: ctrl.GetTag(),
+        placeholder: ctrl.GetPlaceholder(),
+        text: ctrl.GetText(),
+        type: ctrl.GetType()
+    });
+}
+
+Api.SaveText(JSON.stringify(result));

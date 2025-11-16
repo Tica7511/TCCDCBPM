@@ -1,8 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage/MasterPage.master" AutoEventWireup="true" CodeFile="DocManage.aspx.cs" Inherits="WebPage_DocManage" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-    <script src="../js/jquery-3.7.0.min.js" type="text/javascript"></script>
-    <script src="../js/jquery-ui.js" type="text/javascript"></script>
     <script src="../page_js/DocManage.js" type="text/javascript"></script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">

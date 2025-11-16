@@ -3,20 +3,20 @@
 
     // 查詢
     $(document).on("click", "#SearchBtn", function () {
-        getData(0);
+        getData();
     });
 
     // 編輯
-    $(document).on("click", "a[name='editbtn']", function () {
-        sessionStorage.setItem("parentguid", $(this).attr("gid"));
-        $(this).attr("href", "fineAdd.aspx");
-    });
+    //$(document).on("click", "a[name='editbtn']", function () {
+    //    sessionStorage.setItem("parentguid", $(this).attr("gid"));
+    //    $(this).attr("href", "fineAdd.aspx");
+    //});
 
     // 檢視
-    $(document).on("click", "a[name='viewbtn']", function () {
-        sessionStorage.setItem("parentguid", $(this).attr("gid"));
-        $(this).attr("href", "fineView.aspx");
-    });
+    //$(document).on("click", "a[name='viewbtn']", function () {
+    //    sessionStorage.setItem("parentguid", $(this).attr("gid"));
+    //    $(this).attr("href", "fineView.aspx");
+    //});
 }); // end js
 
 function getData() {
@@ -55,7 +55,9 @@ function getData() {
                         tabstr += '</td>';
                         tabstr += '<td class="align-middle">' + $(this).children("上傳日期").text().trim() + '</td>';
                         tabstr += '<td class="text-center"><div class="btn-group btn-group-sm" role="group">';
-                        tabstr += '<a href="javascript:void(0);" class="btn btn-outline-dark" name="editbtn">編輯</a>';
+                        tabstr += '<a href="DocManageAdd.aspx?filetype=demo&mode=edit&parentGuid='
+                            + $(this).children("類別guid").text().trim() + '&sn=' + $(this).children("附件排序").text().trim()
+                            + '" class="btn btn-outline-dark" name="editbtn">編輯</a>';
                         tabstr += '</div></td></tr>';
                         Table_Select = !Table_Select;
                     });

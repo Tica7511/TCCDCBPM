@@ -1,0 +1,9035 @@
+2025/11/8 下午 11:38:40
+test2025/11/8 下午 11:39:01
+test2025/11/8 下午 11:39:01
+status=4
+key=E0477718-5D74-4205-82AA-B52C5F5A50AD_D5DB89CA-5A93-4312-A184-A4B922698CA6_1
+
+2025/11/8 下午 11:39:02
+test2025/11/8 下午 11:39:02
+status=1
+key=E0477718-5D74-4205-82AA-B52C5F5A50AD_D5DB89CA-5A93-4312-A184-A4B922698CA6_1
+
+2025/11/8 下午 11:42:41
+test2025/11/8 下午 11:42:41
+test2025/11/8 下午 11:42:41
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=12025/11/8 下午 11:42:46
+test2025/11/8 下午 11:43:29
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=12025/11/8 下午 11:43:29
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=12025/11/8 下午 11:45:42
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=12025/11/8 下午 11:45:48
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=12025/11/8 下午 11:45:49
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=12025/11/8 下午 11:47:33
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=12025/11/8 下午 11:47:33 找到 ContentControl 總數=0
+2025/11/8 下午 11:47:33
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v2
+PublicFileVersion=2
+2025/11/8 下午 11:50:49
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/8 下午 11:50:55
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/8 下午 11:50:55 找到 ContentControl 總數=0
+2025/11/8 下午 11:50:55filepath
+D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\.doc
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v2
+PublicFileVersion=2
+
+2025/11/8 下午 11:51:06
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/8 下午 11:51:06 找到 ContentControl 總數=0
+2025/11/8 下午 11:51:06filepath
+D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\.doc
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v2
+PublicFileVersion=2
+
+2025/11/8 下午 11:55:02
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/8 下午 11:55:11
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/8 下午 11:55:11 找到 ContentControl 總數=0
+2025/11/8 下午 11:55:11filepath
+D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v2
+PublicFileVersion=2
+
+2025/11/8 下午 11:58:25
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/8 下午 11:58:31
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/8 下午 11:58:31 找到 ContentControl 總數=0
+2025/11/8 下午 11:58:31
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v2
+PublicFileVersion=2
+
+2025/11/8 下午 11:58:31
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\F-AD-1-04A 訓練需求調查表_v2.doc
+
+2025/11/9 上午 12:01:38
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/9 上午 12:01:39 找到 ContentControl 總數=0
+2025/11/9 上午 12:01:39
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v2
+PublicFileVersion=2
+
+2025/11/9 上午 12:01:39
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\F-AD-1-04A 訓練需求調查表_v2.doc
+
+2025/11/10 上午 10:54:58
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 10:55:23
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 10:55:23 找到 ContentControl 總數=0
+2025/11/10 上午 10:55:23
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v2
+PublicFileVersion=2
+
+2025/11/10 上午 10:55:23
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\F-AD-1-04A 訓練需求調查表_v2.doc
+
+2025/11/10 上午 10:57:27
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 10:57:35
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 10:57:35 找到 ContentControl 總數=0
+2025/11/10 上午 10:57:35
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v2
+PublicFileVersion=2
+
+2025/11/10 上午 10:57:35
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\F-AD-1-04A 訓練需求調查表_v2.doc
+
+2025/11/10 上午 10:57:35
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文\行管部\HR\教育訓練\F-AD-1-04A 訓練需求調查表_v2.doc' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 4252025/11/10 上午 10:59:45
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 10:59:51
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 10:59:51 找到 ContentControl 總數=0
+2025/11/10 上午 10:59:51
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\行管部\HR\教育訓練\
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v2
+PublicFileVersion=2
+
+2025/11/10 上午 10:59:51
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\行管部\HR\教育訓練\F-AD-1-04A 訓練需求調查表_v2.doc
+
+2025/11/10 上午 11:04:51
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 11:09:32
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 11:10:34
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 11:10:41
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 11:11:54
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 11:11:54 找到 ContentControl 總數=0
+2025/11/10 上午 11:11:54
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\行管部\HR\教育訓練\
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v2
+PublicFileVersion=2
+
+2025/11/10 上午 11:11:54
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\行管部\HR\教育訓練\F-AD-1-04A 訓練需求調查表_v2.doc
+
+2025/11/10 上午 11:11:54
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 上午 11:11:57
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 下午 01:18:56
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 下午 01:19:40
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 下午 02:08:51
+fileGuid=32CD31D3-01AA-4C35-881D-B26CB4C7A743
+fileparentGuid=B8313F34-4215-42E3-B2FD-6B4D49873BF3
+PublicFileVersion=1
+
+2025/11/10 下午 02:09:04
+fileGuid=32CD31D3-01AA-4C35-881D-B26CB4C7A743
+fileparentGuid=B8313F34-4215-42E3-B2FD-6B4D49873BF3
+PublicFileVersion=1
+
+2025/11/10 下午 02:09:06
+fileGuid=698C8B16-4A73-4E69-9C4C-7909E03995BD
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=1
+
+2025/11/10 下午 02:09:17
+fileGuid=698C8B16-4A73-4E69-9C4C-7909E03995BD
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=1
+
+2025/11/10 下午 02:09:17 找到 ContentControl 總數=0
+2025/11/10 下午 02:09:17
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v2
+PublicFileVersion=2
+
+2025/11/10 下午 02:09:17
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v2.docx
+
+2025/11/10 下午 02:09:32
+fileGuid=698C8B16-4A73-4E69-9C4C-7909E03995BD
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=1
+
+2025/11/10 下午 02:09:32 找到 ContentControl 總數=0
+2025/11/10 下午 02:09:32
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v2
+PublicFileVersion=2
+
+2025/11/10 下午 02:09:32
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v2.docx
+
+2025/11/10 下午 02:09:33
+fileGuid=32CD31D3-01AA-4C35-881D-B26CB4C7A743
+fileparentGuid=B8313F34-4215-42E3-B2FD-6B4D49873BF3
+PublicFileVersion=1
+
+2025/11/10 下午 02:09:40
+fileGuid=32CD31D3-01AA-4C35-881D-B26CB4C7A743
+fileparentGuid=B8313F34-4215-42E3-B2FD-6B4D49873BF3
+PublicFileVersion=1
+
+2025/11/10 下午 02:10:55
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 下午 03:11:51
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 下午 03:28:44
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 下午 03:28:46
+fileGuid=E0477718-5D74-4205-82AA-B52C5F5A50AD
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=1
+
+2025/11/10 下午 03:34:40
+fileGuid=c53397f28fa240fda2eb62926245d7ce
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=2
+
+2025/11/10 下午 03:34:49
+fileGuid=c53397f28fa240fda2eb62926245d7ce
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=2
+
+2025/11/10 下午 03:34:49
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\行管部\HR\教育訓練\
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v3
+PublicFileVersion=3
+
+2025/11/10 下午 03:34:49
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\行管部\HR\教育訓練\F-AD-1-04A 訓練需求調查表_v3.doc
+
+2025/11/10 下午 03:37:43
+fileGuid=4f286511d6f442a49c7294cec9f36896
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=2
+
+2025/11/10 下午 03:55:45
+fileGuid=c53397f28fa240fda2eb62926245d7ce
+fileparentGuid=D5DB89CA-5A93-4312-A184-A4B922698CA6
+PublicFileVersion=2
+
+2025/11/10 下午 03:55:45
+fileGuid=4f286511d6f442a49c7294cec9f36896
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=2
+
+2025/11/10 下午 03:55:45
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\行管部\HR\教育訓練\
+PublicFileFullName=F-AD-1-04A 訓練需求調查表_v3
+PublicFileVersion=3
+
+2025/11/10 下午 03:55:45
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\行管部\HR\教育訓練\F-AD-1-04A 訓練需求調查表_v3.doc
+
+2025/11/10 下午 03:55:45
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v3
+PublicFileVersion=3
+
+2025/11/10 下午 03:55:45
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v3.docx
+
+2025/11/10 下午 03:56:06
+fileGuid=99f708de0c8645aa832207c5f8b84432
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=3
+
+2025/11/10 下午 04:10:59
+fileGuid=99f708de0c8645aa832207c5f8b84432
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=3
+
+2025/11/11 下午 03:57:04
+fileGuid=99f708de0c8645aa832207c5f8b84432
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=3
+
+2025/11/11 下午 03:57:14
+fileGuid=99f708de0c8645aa832207c5f8b84432
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=3
+
+2025/11/11 下午 03:57:14
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v4
+PublicFileVersion=4
+
+2025/11/11 下午 03:57:14
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/11 下午 04:57:54
+fileGuid=99f708de0c8645aa832207c5f8b84432
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=3
+
+2025/11/11 下午 04:57:55
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v4
+PublicFileVersion=4
+
+2025/11/11 下午 04:57:55
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/12 上午 11:25:02
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/12 上午 11:26:21
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/12 上午 11:26:21
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/12 下午 02:15:41
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/12 下午 02:16:45
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/12 下午 02:16:45
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v5
+PublicFileVersion=5
+
+2025/11/12 下午 02:16:45
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v5.docx
+
+2025/11/12 下午 02:16:46
+The document appears to be corrupted and cannot be loaded.
+   於 Aspose.Words.Document.(Stream , LoadOptions )
+   於 Aspose.Words.Document.(Stream , LoadOptions )
+   於 Aspose.Words.Document..ctor(String fileName, LoadOptions loadOptions)
+   於 handler_SaveCallback.ExtractContentControls(String path) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 204
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1562025/11/12 下午 04:15:31
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/12 下午 04:16:15
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/12 下午 04:16:16
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/12 下午 04:20:42
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/12 下午 05:28:05
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/13 上午 11:26:21
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/13 上午 11:26:21
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/13 上午 11:26:21
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 216
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 872025/11/13 上午 11:26:21
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 216
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 872025/11/13 下午 11:05:23
+fileGuid=8C1FF16D-4242-47EE-9A36-9A351FD856A7
+fileparentGuid=CEF2EE1B-C418-45BC-84BD-5B52C8F8BB2E
+PublicFileVersion=1
+
+2025/11/13 下午 11:05:23
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\招募任用\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 219
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 902025/11/13 下午 11:05:29
+fileGuid=8C1FF16D-4242-47EE-9A36-9A351FD856A7
+fileparentGuid=CEF2EE1B-C418-45BC-84BD-5B52C8F8BB2E
+PublicFileVersion=1
+
+2025/11/13 下午 11:05:29
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\招募任用\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 219
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 902025/11/13 下午 11:05:32
+fileGuid=8C1FF16D-4242-47EE-9A36-9A351FD856A7
+fileparentGuid=CEF2EE1B-C418-45BC-84BD-5B52C8F8BB2E
+PublicFileVersion=1
+
+2025/11/13 下午 11:05:32
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\招募任用\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 219
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 902025/11/13 下午 11:07:28
+fileGuid=8C1FF16D-4242-47EE-9A36-9A351FD856A7
+fileparentGuid=CEF2EE1B-C418-45BC-84BD-5B52C8F8BB2E
+PublicFileVersion=1
+
+2025/11/13 下午 11:07:28
+找不到檔案 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\招募任用\F-AD-1-03B 面試紀錄表_v1.docx'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 219
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1032025/11/13 下午 11:07:30
+fileGuid=8C1FF16D-4242-47EE-9A36-9A351FD856A7
+fileparentGuid=CEF2EE1B-C418-45BC-84BD-5B52C8F8BB2E
+PublicFileVersion=1
+
+2025/11/13 下午 11:07:30
+找不到檔案 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\招募任用\F-AD-1-03B 面試紀錄表_v1.docx'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 219
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1032025/11/13 下午 11:11:46
+fileGuid=8C1FF16D-4242-47EE-9A36-9A351FD856A7
+fileparentGuid=CEF2EE1B-C418-45BC-84BD-5B52C8F8BB2E
+PublicFileVersion=1
+
+2025/11/13 下午 11:11:46
+fileGuid=8C1FF16D-4242-47EE-9A36-9A351FD856A7
+fileparentGuid=CEF2EE1B-C418-45BC-84BD-5B52C8F8BB2E
+PublicFileVersion=1
+
+2025/11/13 下午 11:11:46
+有到這2025/11/13 下午 11:11:46
+有到這2025/11/13 下午 11:11:46
+找不到檔案 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\招募任用\F-AD-1-03B 面試紀錄表_v1.docx'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 222
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1032025/11/13 下午 11:12:28
+fileGuid=8C1FF16D-4242-47EE-9A36-9A351FD856A7
+fileparentGuid=CEF2EE1B-C418-45BC-84BD-5B52C8F8BB2E
+PublicFileVersion=1
+
+2025/11/13 下午 11:12:28
+有到這
+2025/11/13 下午 11:12:28
+找不到檔案 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\招募任用\F-AD-1-03B 面試紀錄表_v1.docx'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 222
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1032025/11/13 下午 11:12:32
+fileGuid=8C1FF16D-4242-47EE-9A36-9A351FD856A7
+fileparentGuid=CEF2EE1B-C418-45BC-84BD-5B52C8F8BB2E
+PublicFileVersion=1
+
+2025/11/13 下午 11:12:32
+有到這
+2025/11/13 下午 11:12:32
+找不到檔案 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\招募任用\F-AD-1-03B 面試紀錄表_v1.docx'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 222
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1032025/11/13 下午 11:12:32
+fileGuid=8C1FF16D-4242-47EE-9A36-9A351FD856A7
+fileparentGuid=CEF2EE1B-C418-45BC-84BD-5B52C8F8BB2E
+PublicFileVersion=1
+
+2025/11/13 下午 11:12:32
+有到這
+2025/11/13 下午 11:12:32
+找不到檔案 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\招募任用\F-AD-1-03B 面試紀錄表_v1.docx'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 222
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1032025/11/13 下午 11:12:35
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/13 下午 11:12:35
+有到這
+2025/11/13 下午 11:12:35
+有到這22222
+2025/11/13 下午 11:12:37
+json={
+  "error": -3
+}
+2025/11/13 下午 11:18:43
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/13 下午 11:18:43
+有到這
+2025/11/13 下午 11:18:43
+有到這22222
+2025/11/13 下午 11:18:44
+json={
+  "error": -3
+}
+2025/11/13 下午 11:24:37
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/13 下午 11:24:37
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/13 下午 11:24:37
+有到這
+2025/11/13 下午 11:24:37
+有到這
+2025/11/13 下午 11:24:37
+有到這22222
+2025/11/13 下午 11:24:37
+由於另一個處理序正在使用檔案 'D:\Git\TCCDCBPM\Program\TCCDCBPM\log-callback.txt'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   於 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   於 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   於 System.IO.File.InternalAppendAllText(String path, String contents, Encoding encoding)
+   於 handler_SaveCallback.ExtractControlsViaBuilder(String docFilePath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 224
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1032025/11/13 下午 11:24:38
+json={
+  "error": -3
+}
+2025/11/14 上午 09:49:23
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/14 上午 09:49:39
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/14 上午 10:07:07
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/14 上午 10:35:41
+並未將物件參考設定為物件的執行個體。
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 582025/11/14 上午 10:35:42
+並未將物件參考設定為物件的執行個體。
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 582025/11/14 上午 10:40:50
+並未將物件參考設定為物件的執行個體。
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 582025/11/14 上午 10:40:50
+並未將物件參考設定為物件的執行個體。
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 582025/11/14 上午 10:46:04
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/14 上午 10:46:04
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/14 上午 10:46:26
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 08:48:42
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:12:36
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:12:36
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   於 Ionic.Zip.ZipFile.get_ReadStream()
+   於 Ionic.Zip.ZipFile.ReadIntoInstance(ZipFile zf)
+   於 Ionic.Zip.ZipFile.Read(String fileName, TextWriter statusMessageWriter, Encoding encoding, EventHandler`1 readProgress)
+   於 handler_SaveCallback.ParseContentControls(String docxPath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 306
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1352025/11/15 上午 09:12:37
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:12:50
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:14:50
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:15:16
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:16:40
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:16:40
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   於 Ionic.Zip.ZipFile.get_ReadStream()
+   於 Ionic.Zip.ZipFile.ReadIntoInstance(ZipFile zf)
+   於 Ionic.Zip.ZipFile.Read(String fileName, TextWriter statusMessageWriter, Encoding encoding, EventHandler`1 readProgress)
+   於 handler_SaveCallback.ParseContentControls(String docxPath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 306
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1352025/11/15 上午 09:19:07
+status=1
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:19:07
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:19:13
+status=6
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=http://172.20.10.5:8080/cache/files/data/bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4_9382/output.docx/output.docx?md5=nhpH9crpeaFaQqKCEIKoiQ&expires=1763170454&shardkey=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4&filename=output.docx
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:19:13
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:19:13
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   於 Ionic.Zip.ZipFile.get_ReadStream()
+   於 Ionic.Zip.ZipFile.ReadIntoInstance(ZipFile zf)
+   於 Ionic.Zip.ZipFile.Read(String fileName, TextWriter statusMessageWriter, Encoding encoding, EventHandler`1 readProgress)
+   於 handler_SaveCallback.ParseContentControls(String docxPath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 311
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1402025/11/15 上午 09:22:12
+status=1
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:22:12
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:22:20
+status=6
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=http://172.20.10.5:8080/cache/files/data/bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4_8178/output.docx/output.docx?md5=iHDXusDd0JAXHMzZUb7zvw&expires=1763170641&shardkey=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4&filename=output.docx
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:22:20
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:22:20
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   於 Ionic.Zip.ZipFile.get_ReadStream()
+   於 Ionic.Zip.ZipFile.ReadIntoInstance(ZipFile zf)
+   於 Ionic.Zip.ZipFile.Read(String fileName, TextWriter statusMessageWriter, Encoding encoding, EventHandler`1 readProgress)
+   於 handler_SaveCallback.ParseContentControls(String docxPath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 311
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1402025/11/15 上午 09:25:28
+status=1
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:25:28
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:25:28
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/15 上午 09:25:34
+status=6
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=http://172.20.10.5:8080/cache/files/data/bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4_359/output.docx/output.docx?md5=u0RTvbKwPXQF9vwWtxOpRA&expires=1763170835&shardkey=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4&filename=output.docx
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:25:34
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:25:34
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/15 上午 09:25:34
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   於 Ionic.Zip.ZipFile.get_ReadStream()
+   於 Ionic.Zip.ZipFile.ReadIntoInstance(ZipFile zf)
+   於 Ionic.Zip.ZipFile.Read(String fileName, TextWriter statusMessageWriter, Encoding encoding, EventHandler`1 readProgress)
+   於 handler_SaveCallback.ParseContentControls(String docxPath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 310
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1392025/11/15 上午 09:28:30
+status=1
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:28:30
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:28:30
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/15 上午 09:28:39
+status=6
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=http://172.20.10.5:8080/cache/files/data/bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4_6794/output.docx/output.docx?md5=dA4AdDEHerdfBGtWQXSM4w&expires=1763171020&shardkey=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4&filename=output.docx
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:28:39
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:28:39
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = test
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:28:39]
+Tag = 
+Type = 
+Value = ☐
+
+2025/11/15 上午 09:28:39
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v4.docx
+PublicFileFullName=F-AD-1-14C_試用考核表_v5
+PublicFileVersion=5
+
+2025/11/15 上午 09:28:39
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v4.docx\F-AD-1-14C_試用考核表_v5.docx
+
+2025/11/15 上午 09:28:39
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v4.docx\F-AD-1-14C_試用考核表_v5.docx' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1832025/11/15 上午 09:31:38
+status=1
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:31:38
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:31:38
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/15 上午 09:32:03
+status=1
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:32:03
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:32:03
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/15 上午 09:32:11
+status=6
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=http://172.20.10.5:8080/cache/files/data/bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4_8150/output.docx/output.docx?md5=ZyogHIZyzwib3hfwga6w1g&expires=1763171232&shardkey=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4&filename=output.docx
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:32:11
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:32:11
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = test
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:32:11]
+Tag = 
+Type = 
+Value = ☐
+
+2025/11/15 上午 09:32:11
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v4.docx
+PublicFileFullName=F-AD-1-14C_試用考核表_v5
+PublicFileVersion=5
+
+2025/11/15 上午 09:32:11
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v4.docx\F-AD-1-14C_試用考核表_v5.docx
+
+2025/11/15 上午 09:32:11
+找不到路徑 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v4.docx\F-AD-1-14C_試用考核表_v5.docx' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1832025/11/15 上午 09:33:55
+status=1
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:33:55
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:33:55
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/15 上午 09:34:01
+status=6
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=http://172.20.10.5:8080/cache/files/data/bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4_372/output.docx/output.docx?md5=nyeR008srZOmMOqDt_thAg&expires=1763171342&shardkey=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4&filename=output.docx
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:34:01
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:34:01
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = 
+Value = test
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:01]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:34:02]
+Tag = 
+Type = 
+Value = ☐
+
+2025/11/15 上午 09:34:02
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v5
+PublicFileVersion=5
+
+2025/11/15 上午 09:34:02
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v5.docx
+
+2025/11/15 上午 09:35:11
+status=6
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=http://172.20.10.5:8080/cache/files/data/bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4_7061/output.docx/output.docx?md5=5ul03go25kYVgoJn4dPRIA&expires=1763171412&shardkey=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4&filename=output.docx
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:35:11
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:35:11
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = test
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:35:11]
+Tag = 
+Type = 
+Value = ☐
+
+2025/11/15 上午 09:35:11
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v5
+PublicFileVersion=5
+
+2025/11/15 上午 09:35:11
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v5.docx
+
+2025/11/15 上午 09:36:56
+status=6
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=http://172.20.10.5:8080/cache/files/data/bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4_442/output.docx/output.docx?md5=mM0mAZH2TYOmMtEzjlglYA&expires=1763171517&shardkey=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4&filename=output.docx
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:36:56
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:36:56
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = test
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:36:56]
+Tag = 
+Type = 
+Value = ☐
+
+2025/11/15 上午 09:36:56
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v5
+PublicFileVersion=5
+
+2025/11/15 上午 09:36:56
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v5.docx
+
+2025/11/15 上午 09:37:16
+status=2
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=http://172.20.10.5:8080/cache/files/data/bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4_9696/output.docx/output.docx?md5=pODOT9A1KaxocUhHoabOSA&expires=1763171537&shardkey=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4&filename=output.docx
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:37:16
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:37:16
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = test
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:37:16]
+Tag = 
+Type = 
+Value = ☐
+
+2025/11/15 上午 09:37:17
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v5
+PublicFileVersion=5
+
+2025/11/15 上午 09:37:17
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v5.docx
+
+2025/11/15 上午 09:39:03
+status=1
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:39:03
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:39:03
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/15 上午 09:39:30
+status=4
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:39:30
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:39:30
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/15 上午 09:39:33
+status=1
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:39:33
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:39:33
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/15 上午 09:40:38
+status=4
+key=bc69c2cf859c4edf846617df1bc1b6ee_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_4
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:40:38
+fileGuid=bc69c2cf859c4edf846617df1bc1b6ee
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=4
+
+2025/11/15 上午 09:40:38
+fileName=F-AD-1-14C_試用考核表_v4.docx
+
+2025/11/15 上午 09:40:49
+status=1
+key=9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:40:49
+fileGuid=9ca58b5af4884148a5973ba090b61f51
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=5
+
+2025/11/15 上午 09:40:49
+fileName=F-AD-1-14C_試用考核表_v5.docx
+
+2025/11/15 上午 09:41:09
+status=6
+key=9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5
+fileUrl=http://172.20.10.5:8080/cache/files/data/9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5_5065/output.docx/output.docx?md5=FHE26FgzoMfh4HG-vrk1iA&expires=1763171770&shardkey=9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5_5065/changes.zip/changes.zip?md5=pr-SbVJZR6fpitu8RuSpYQ&expires=1763171770&shardkey=9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5&filename=changes.zip
+
+2025/11/15 上午 09:41:09
+fileGuid=9ca58b5af4884148a5973ba090b61f51
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=5
+
+2025/11/15 上午 09:41:09
+fileName=F-AD-1-14C_試用考核表_v5.docx
+
+[2025/11/15 上午 09:41:09]
+Tag = 部門
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 姓名
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 員工工號
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = ☐
+
+[2025/11/15 上午 09:41:09]
+Tag = 
+Type = 
+Value = ☐
+
+2025/11/15 上午 09:41:09
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v6
+PublicFileVersion=6
+
+2025/11/15 上午 09:41:09
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v6.docx
+
+2025/11/15 上午 09:52:08
+status=2
+key=9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5
+fileUrl=http://172.20.10.5:8080/cache/files/data/9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5_7623/output.docx/output.docx?md5=kSZzxqW0bbGzp4NLmUqfmQ&expires=1763172427&shardkey=9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5_7623/changes.zip/changes.zip?md5=3FyloKei9uYH-0vgHErh8g&expires=1763172427&shardkey=9ca58b5af4884148a5973ba090b61f51_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_5&filename=changes.zip
+
+2025/11/15 上午 09:52:08
+fileGuid=9ca58b5af4884148a5973ba090b61f51
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=5
+
+2025/11/15 上午 09:52:08
+fileName=F-AD-1-14C_試用考核表_v5.docx
+
+[2025/11/15 上午 09:52:08]
+Tag = 部門
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 姓名
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 員工工號
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:08]
+Tag = 
+Type = checkbox
+Value = ☐
+
+2025/11/15 上午 09:52:08
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v6
+PublicFileVersion=6
+
+2025/11/15 上午 09:52:08
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v6.docx
+
+2025/11/15 上午 09:52:38
+status=1
+key=6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:52:38
+fileGuid=6f94f0fd92ec4cefbecb1abd27a40347
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=6
+
+2025/11/15 上午 09:52:38
+fileName=F-AD-1-14C_試用考核表_v6.docx
+
+2025/11/15 上午 09:52:51
+status=6
+key=6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6
+fileUrl=http://172.20.10.5:8080/cache/files/data/6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6_1552/output.docx/output.docx?md5=dj_-PRgGY2M-7XpGlgqaXg&expires=1763172472&shardkey=6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6_1552/changes.zip/changes.zip?md5=qBvNtIqfWQ8w_YMiGVKmsA&expires=1763172472&shardkey=6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6&filename=changes.zip
+
+2025/11/15 上午 09:52:51
+fileGuid=6f94f0fd92ec4cefbecb1abd27a40347
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=6
+
+2025/11/15 上午 09:52:51
+fileName=F-AD-1-14C_試用考核表_v6.docx
+
+[2025/11/15 上午 09:52:51]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 上午 09:52:51]
+Tag = 姓名
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 員工工號
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:52:51]
+Tag = 
+Type = checkbox
+Value = ☐
+
+2025/11/15 上午 09:52:51
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v7
+PublicFileVersion=7
+
+2025/11/15 上午 09:52:51
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v7.docx
+
+2025/11/15 上午 09:54:37
+status=2
+key=6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6
+fileUrl=http://172.20.10.5:8080/cache/files/data/6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6_4037/output.docx/output.docx?md5=H9iASjUXCgo7Olg06HIiAg&expires=1763172578&shardkey=6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6_4037/changes.zip/changes.zip?md5=vnm4XQizdibtMwbINv1RAQ&expires=1763172578&shardkey=6f94f0fd92ec4cefbecb1abd27a40347_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_6&filename=changes.zip
+
+2025/11/15 上午 09:54:37
+fileGuid=6f94f0fd92ec4cefbecb1abd27a40347
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=6
+
+2025/11/15 上午 09:54:37
+fileName=F-AD-1-14C_試用考核表_v6.docx
+
+[2025/11/15 上午 09:54:37]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 上午 09:54:37]
+Tag = 姓名
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 員工工號
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = checkbox
+Value = ☐
+
+[2025/11/15 上午 09:54:37]
+Tag = 
+Type = checkbox
+Value = ☐
+
+2025/11/15 上午 09:54:37
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v7
+PublicFileVersion=7
+
+2025/11/15 上午 09:54:37
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v7.docx
+
+2025/11/15 上午 09:58:56
+status=1
+key=6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 09:58:56
+fileGuid=6b7e1ae5fed04d079e9d59ba65e4a341
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=7
+
+2025/11/15 上午 09:58:56
+fileName=F-AD-1-14C_試用考核表_v7.docx
+
+2025/11/15 上午 09:59:04
+status=6
+key=6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7
+fileUrl=http://172.20.10.5:8080/cache/files/data/6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7_6155/output.docx/output.docx?md5=fuNoAmVCyBQ5ys5PVGZ0Gg&expires=1763172845&shardkey=6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7_6155/changes.zip/changes.zip?md5=DRPz6EDIvB1c8uX17osqvg&expires=1763172845&shardkey=6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7&filename=changes.zip
+
+2025/11/15 上午 09:59:04
+fileGuid=6b7e1ae5fed04d079e9d59ba65e4a341
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=7
+
+2025/11/15 上午 09:59:04
+fileName=F-AD-1-14C_試用考核表_v7.docx
+
+[2025/11/15 上午 09:59:04]
+Tag = 部門
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 姓名
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 員工工號
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:04]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 上午 09:59:04
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v8
+PublicFileVersion=8
+
+2025/11/15 上午 09:59:04
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v8.docx
+
+2025/11/15 上午 09:59:51
+status=6
+key=6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7
+fileUrl=http://172.20.10.5:8080/cache/files/data/6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7_603/output.docx/output.docx?md5=qr1rBC2dQDi36oE0MVhcFQ&expires=1763172892&shardkey=6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7_603/changes.zip/changes.zip?md5=lrBaCJS1FB1-M_pnzWqblQ&expires=1763172892&shardkey=6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7&filename=changes.zip
+
+2025/11/15 上午 09:59:51
+fileGuid=6b7e1ae5fed04d079e9d59ba65e4a341
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=7
+
+2025/11/15 上午 09:59:51
+fileName=F-AD-1-14C_試用考核表_v7.docx
+
+[2025/11/15 上午 09:59:51]
+Tag = 部門
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 姓名
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 員工工號
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 09:59:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 上午 09:59:51
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v8
+PublicFileVersion=8
+
+2025/11/15 上午 09:59:51
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v8.docx
+
+2025/11/15 上午 10:00:55
+status=2
+key=6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7
+fileUrl=http://172.20.10.5:8080/cache/files/data/6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7_9648/output.docx/output.docx?md5=IoHnn4-m-PHMwuVQ0R8P5Q&expires=1763172956&shardkey=6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7_9648/changes.zip/changes.zip?md5=ga1zHQR64ATUAMDt1D2HIw&expires=1763172956&shardkey=6b7e1ae5fed04d079e9d59ba65e4a341_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_7&filename=changes.zip
+
+2025/11/15 上午 10:00:55
+fileGuid=6b7e1ae5fed04d079e9d59ba65e4a341
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=7
+
+2025/11/15 上午 10:00:55
+fileName=F-AD-1-14C_試用考核表_v7.docx
+
+[2025/11/15 上午 10:00:55]
+Tag = 部門
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 姓名
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 員工工號
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:00:55]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 上午 10:00:55
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v8
+PublicFileVersion=8
+
+2025/11/15 上午 10:00:55
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v8.docx
+
+2025/11/15 上午 10:01:55
+status=1
+key=c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 10:01:55
+fileGuid=c5a9aa6a8b544055b303188d3b79a597
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=8
+
+2025/11/15 上午 10:01:55
+fileName=F-AD-1-14C_試用考核表_v8.docx
+
+2025/11/15 上午 10:02:24
+status=6
+key=c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8
+fileUrl=http://172.20.10.5:8080/cache/files/data/c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8_1017/output.docx/output.docx?md5=3Hbe8y0tpiRMMQLxq-XZew&expires=1763173045&shardkey=c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8_1017/changes.zip/changes.zip?md5=FizVyfY-FUwjB6TSuVvwhA&expires=1763173045&shardkey=c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8&filename=changes.zip
+
+2025/11/15 上午 10:02:24
+fileGuid=c5a9aa6a8b544055b303188d3b79a597
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=8
+
+2025/11/15 上午 10:02:24
+fileName=F-AD-1-14C_試用考核表_v8.docx
+
+[2025/11/15 上午 10:02:24]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 上午 10:02:24]
+Tag = 姓名
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 員工工號
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 在此輸入文字
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:02:24]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 上午 10:02:25
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v9
+PublicFileVersion=9
+
+2025/11/15 上午 10:02:25
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v9.docx
+
+2025/11/15 上午 10:07:47
+status=2
+key=c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8
+fileUrl=http://172.20.10.5:8080/cache/files/data/c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8_287/output.docx/output.docx?md5=q7LHaH1QKJHFpV6fQXOt9A&expires=1763173367&shardkey=c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8_287/changes.zip/changes.zip?md5=QzKV_jJGAEJOHlA5LHY64w&expires=1763173367&shardkey=c5a9aa6a8b544055b303188d3b79a597_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_8&filename=changes.zip
+
+2025/11/15 上午 10:07:47
+fileGuid=c5a9aa6a8b544055b303188d3b79a597
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=8
+
+2025/11/15 上午 10:07:47
+fileName=F-AD-1-14C_試用考核表_v8.docx
+
+[2025/11/15 上午 10:07:47]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 上午 10:07:47]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:07:47]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 上午 10:07:47
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v9
+PublicFileVersion=9
+
+2025/11/15 上午 10:07:47
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v9.docx
+
+2025/11/15 上午 10:07:52
+status=1
+key=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 10:07:52
+fileGuid=d3fa08a2ee0744749800708a0d6b726c
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=9
+
+2025/11/15 上午 10:07:52
+fileName=F-AD-1-14C_試用考核表_v9.docx
+
+2025/11/15 上午 10:08:08
+status=6
+key=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9
+fileUrl=http://172.20.10.5:8080/cache/files/data/d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9_3759/output.docx/output.docx?md5=-7buVkCYFI3vtzzY_J18UQ&expires=1763173389&shardkey=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9_3759/changes.zip/changes.zip?md5=joe8L_QTK9r83ldUy4VqCA&expires=1763173389&shardkey=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9&filename=changes.zip
+
+2025/11/15 上午 10:08:08
+fileGuid=d3fa08a2ee0744749800708a0d6b726c
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=9
+
+2025/11/15 上午 10:08:08
+fileName=F-AD-1-14C_試用考核表_v9.docx
+
+[2025/11/15 上午 10:08:08]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 上午 10:08:08]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:08:08]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 上午 10:08:08
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v10
+PublicFileVersion=10
+
+2025/11/15 上午 10:08:08
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v10.docx
+
+2025/11/15 上午 10:10:41
+status=6
+key=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9
+fileUrl=http://172.20.10.5:8080/cache/files/data/d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9_5964/output.docx/output.docx?md5=n3dPzj4np3nxf9N4oH8-Sw&expires=1763173542&shardkey=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9_5964/changes.zip/changes.zip?md5=WOAqQvzfx7AHBqA29CExfw&expires=1763173542&shardkey=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9&filename=changes.zip
+
+2025/11/15 上午 10:10:41
+fileGuid=d3fa08a2ee0744749800708a0d6b726c
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=9
+
+2025/11/15 上午 10:10:41
+fileName=F-AD-1-14C_試用考核表_v9.docx
+
+[2025/11/15 上午 10:10:41]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 上午 10:10:41]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:10:41]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 上午 10:10:41
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v10
+PublicFileVersion=10
+
+2025/11/15 上午 10:10:41
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v10.docx
+
+2025/11/15 上午 10:10:51
+status=2
+key=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9
+fileUrl=http://172.20.10.5:8080/cache/files/data/d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9_2406/output.docx/output.docx?md5=hwYqrDj-sIIDFgPXPQrjeg&expires=1763173552&shardkey=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9_2406/changes.zip/changes.zip?md5=ioZTkrka30h2H_wKr8JRGw&expires=1763173552&shardkey=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9&filename=changes.zip
+
+2025/11/15 上午 10:10:51
+fileGuid=d3fa08a2ee0744749800708a0d6b726c
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=9
+
+2025/11/15 上午 10:10:51
+fileName=F-AD-1-14C_試用考核表_v9.docx
+
+[2025/11/15 上午 10:10:51]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 上午 10:10:51]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:10:51]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 上午 10:10:51
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v10
+PublicFileVersion=10
+
+2025/11/15 上午 10:10:51
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v10.docx
+
+2025/11/15 上午 10:11:24
+status=1
+key=32CD31D3-01AA-4C35-881D-B26CB4C7A743_B8313F34-4215-42E3-B2FD-6B4D49873BF3_1
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 10:11:24
+fileGuid=32CD31D3-01AA-4C35-881D-B26CB4C7A743
+fileparentGuid=B8313F34-4215-42E3-B2FD-6B4D49873BF3
+PublicFileVersion=1
+
+2025/11/15 上午 10:11:24
+fileName=特別休假遞延申請單_v1.docx
+
+2025/11/15 上午 10:11:25
+status=4
+key=32CD31D3-01AA-4C35-881D-B26CB4C7A743_B8313F34-4215-42E3-B2FD-6B4D49873BF3_1
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 10:11:25
+fileGuid=32CD31D3-01AA-4C35-881D-B26CB4C7A743
+fileparentGuid=B8313F34-4215-42E3-B2FD-6B4D49873BF3
+PublicFileVersion=1
+
+2025/11/15 上午 10:11:25
+fileName=特別休假遞延申請單_v1.docx
+
+2025/11/15 上午 10:11:28
+status=1
+key=2ffb6e158754483296e89d358ecfe99a_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_10
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 10:11:28
+fileGuid=2ffb6e158754483296e89d358ecfe99a
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=10
+
+2025/11/15 上午 10:11:28
+fileName=F-AD-1-14C_試用考核表_v10.docx
+
+2025/11/15 上午 10:11:38
+status=6
+key=2ffb6e158754483296e89d358ecfe99a_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_10
+fileUrl=http://172.20.10.5:8080/cache/files/data/2ffb6e158754483296e89d358ecfe99a_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_10_9371/output.docx/output.docx?md5=tWtaurc3bxV04tWzLdBeNw&expires=1763173599&shardkey=2ffb6e158754483296e89d358ecfe99a_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_10&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/2ffb6e158754483296e89d358ecfe99a_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_10_9371/changes.zip/changes.zip?md5=S7GPyIl46e0sBbzjvwNMCQ&expires=1763173599&shardkey=2ffb6e158754483296e89d358ecfe99a_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_10&filename=changes.zip
+
+2025/11/15 上午 10:11:38
+fileGuid=2ffb6e158754483296e89d358ecfe99a
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=10
+
+2025/11/15 上午 10:11:38
+fileName=F-AD-1-14C_試用考核表_v10.docx
+
+[2025/11/15 上午 10:11:38]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 上午 10:11:38]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = combobox
+Value = 選擇項目
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = dropdown
+Value = test
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = Tetst
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 10:11:38]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 上午 10:11:39
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v11
+PublicFileVersion=11
+
+2025/11/15 上午 10:11:39
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v11.docx
+
+2025/11/15 上午 11:56:19
+status=1
+key=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 11:56:19
+fileGuid=d3fa08a2ee0744749800708a0d6b726c
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=9
+
+2025/11/15 上午 11:56:19
+fileName=F-AD-1-14C_試用考核表_v9.docx
+
+2025/11/15 上午 11:57:34
+status=4
+key=d3fa08a2ee0744749800708a0d6b726c_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_9
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 11:57:34
+fileGuid=d3fa08a2ee0744749800708a0d6b726c
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=9
+
+2025/11/15 上午 11:57:34
+fileName=F-AD-1-14C_試用考核表_v9.docx
+
+2025/11/15 上午 11:57:38
+status=1
+key=579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 11:57:38
+fileGuid=579c2719b030428da98baad167c12a69
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=11
+
+2025/11/15 上午 11:57:38
+fileName=F-AD-1-14C_試用考核表_v11.docx
+
+2025/11/15 上午 11:59:25
+status=6
+key=579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11
+fileUrl=http://172.20.10.5:8080/cache/files/data/579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11_4196/output.docx/output.docx?md5=t_KOFnF8tVYyRzMuCcassw&expires=1763180066&shardkey=579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11_4196/changes.zip/changes.zip?md5=5YQWATlBA_yewdkYuXcfkA&expires=1763180066&shardkey=579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11&filename=changes.zip
+
+2025/11/15 上午 11:59:25
+fileGuid=579c2719b030428da98baad167c12a69
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=11
+
+2025/11/15 上午 11:59:25
+fileName=F-AD-1-14C_試用考核表_v11.docx
+
+[2025/11/15 上午 11:59:25]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 上午 11:59:25]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = aaaaaa
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = combobox
+Value = 選擇項目
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = dropdown
+Value = test
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = Tetst
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 上午 11:59:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 上午 11:59:25
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v12
+PublicFileVersion=12
+
+2025/11/15 上午 11:59:25
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v12.docx
+
+2025/11/15 上午 11:59:46
+status=1
+key=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 11:59:46
+fileGuid=9f72b7cfc1a7486cbbc43e5a68dca573
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=12
+
+2025/11/15 上午 11:59:46
+fileName=F-AD-1-14C_試用考核表_v12.docx
+
+2025/11/15 上午 11:59:59
+status=4
+key=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 上午 11:59:59
+fileGuid=9f72b7cfc1a7486cbbc43e5a68dca573
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=12
+
+2025/11/15 上午 11:59:59
+fileName=F-AD-1-14C_試用考核表_v12.docx
+
+2025/11/15 下午 12:15:35
+status=1
+key=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 12:15:35
+fileGuid=9f72b7cfc1a7486cbbc43e5a68dca573
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=12
+
+2025/11/15 下午 12:15:35
+fileName=F-AD-1-14C_試用考核表_v12.docx
+
+2025/11/15 下午 12:16:02
+status=4
+key=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 12:16:02
+fileGuid=9f72b7cfc1a7486cbbc43e5a68dca573
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=12
+
+2025/11/15 下午 12:16:02
+fileName=F-AD-1-14C_試用考核表_v12.docx
+
+2025/11/15 下午 12:16:10
+status=2
+key=579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11
+fileUrl=http://172.20.10.5:8080/cache/files/data/579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11_1450/output.docx/output.docx?md5=dSKRDC3U29_-XvgdF7nKlg&expires=1763181071&shardkey=579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11_1450/changes.zip/changes.zip?md5=sdmoP36VYMnKKcHC_5fGJA&expires=1763181071&shardkey=579c2719b030428da98baad167c12a69_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_11&filename=changes.zip
+
+2025/11/15 下午 12:16:10
+fileGuid=579c2719b030428da98baad167c12a69
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=11
+
+2025/11/15 下午 12:16:10
+fileName=F-AD-1-14C_試用考核表_v11.docx
+
+[2025/11/15 下午 12:16:10]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 下午 12:16:10]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = aaaaaa
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = combobox
+Value = 選擇項目
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = dropdown
+Value = test
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = Tetst
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 12:16:10]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 12:16:11]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 下午 12:16:11
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\
+PublicFileFullName=F-AD-1-14C_試用考核表_v12
+PublicFileVersion=12
+
+2025/11/15 下午 12:16:11
+filepath=D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v12.docx
+
+2025/11/15 下午 01:28:15
+status=1
+key=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 01:28:15
+fileGuid=9f72b7cfc1a7486cbbc43e5a68dca573
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=12
+
+2025/11/15 下午 01:28:15
+資料行 '排序' 不屬於資料表 。
+   於 System.Data.DataRow.GetDataColumn(String columnName)
+   於 System.Data.DataRow.get_Item(String columnName)
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1062025/11/15 下午 01:29:04
+status=4
+key=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 01:29:04
+fileGuid=9f72b7cfc1a7486cbbc43e5a68dca573
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=12
+
+2025/11/15 下午 01:29:04
+fileName=F-AD-1-14C_試用考核表_v12.docx
+
+2025/11/15 下午 01:32:24
+status=1
+key=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 01:32:24
+fileGuid=9f72b7cfc1a7486cbbc43e5a68dca573
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=12
+
+2025/11/15 下午 01:32:24
+fileName=F-AD-1-14C_試用考核表_v12.docx
+
+2025/11/15 下午 01:32:56
+status=2
+key=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12
+fileUrl=http://172.20.10.5:8080/cache/files/data/9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12_3679/output.docx/output.docx?md5=fHVWhh8Y0i70RuK0rgIAfA&expires=1763185677&shardkey=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12_3679/changes.zip/changes.zip?md5=bdA9pxFJsnK8fEFwkjORng&expires=1763185677&shardkey=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12&filename=changes.zip
+
+2025/11/15 下午 01:32:56
+fileGuid=9f72b7cfc1a7486cbbc43e5a68dca573
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=12
+
+2025/11/15 下午 01:32:56
+fileName=F-AD-1-14C_試用考核表_v12.docx
+
+2025/11/15 下午 01:32:56
+找不到檔案 'D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\F-AD-1-14C_試用考核表_v13.docxF-AD-1-14C_試用考核表_v12.docx'。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   於 Ionic.Zip.ZipFile.get_ReadStream()
+   於 Ionic.Zip.ZipFile.ReadIntoInstance(ZipFile zf)
+   於 Ionic.Zip.ZipFile.Read(String fileName, TextWriter statusMessageWriter, Encoding encoding, EventHandler`1 readProgress)
+   於 handler_SaveCallback.ParseContentControls(String docxPath) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 303
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 1482025/11/15 下午 01:35:15
+status=1
+key=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 01:35:15
+fileGuid=9f72b7cfc1a7486cbbc43e5a68dca573
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=12
+
+2025/11/15 下午 01:35:15
+fileName=F-AD-1-14C_試用考核表_v12.docx
+
+2025/11/15 下午 01:35:41
+status=2
+key=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12
+fileUrl=http://172.20.10.5:8080/cache/files/data/9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12_7511/output.docx/output.docx?md5=93LBg_o6TqHgc9CKrSDFkA&expires=1763185842&shardkey=9f72b7cfc1a7486cbbc43e5a68dca573_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_12&filename=output.docx
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 01:35:41
+fileGuid=9f72b7cfc1a7486cbbc43e5a68dca573
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=12
+
+2025/11/15 下午 01:35:41
+fileName=F-AD-1-14C_試用考核表_v12.docx
+
+[2025/11/15 下午 01:35:41]
+Tag = 部門
+Type = text
+Value = test
+
+[2025/11/15 下午 01:35:41]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = date
+Value = 2025年11月21日
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = aaaaaa
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = combobox
+Value = 選擇項目
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = dropdown
+Value = test
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = Tetst
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 01:35:41]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 下午 01:53:35
+status=1
+key=478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 01:53:35
+fileGuid=478d1f4cb5e54318a7e9315f9c71430f
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=13
+
+2025/11/15 下午 01:53:35
+fileName=F-AD-1-14C_試用考核表_v13.docx
+
+2025/11/15 下午 01:53:52
+status=6
+key=478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13
+fileUrl=http://172.20.10.5:8080/cache/files/data/478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13_2527/output.docx/output.docx?md5=5SC9oO0OmP7IveT3GCeCLA&expires=1763186933&shardkey=478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13_2527/changes.zip/changes.zip?md5=30XpgKHgVTOtduoPOtvjwg&expires=1763186933&shardkey=478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13&filename=changes.zip
+
+2025/11/15 下午 01:53:52
+fileGuid=478d1f4cb5e54318a7e9315f9c71430f
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=13
+
+2025/11/15 下午 01:53:52
+fileName=F-AD-1-14C_試用考核表_v13.docx
+
+2025/11/15 下午 01:53:52 手動保存完成：D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\手動存檔\F-AD-1-14C_試用考核表_v14_20251115135352.docx
+2025/11/15 下午 01:55:07
+status=6
+key=478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13
+fileUrl=http://172.20.10.5:8080/cache/files/data/478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13_2404/output.docx/output.docx?md5=arZgiGOTDl3otnhGVLHJDw&expires=1763187008&shardkey=478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13_2404/changes.zip/changes.zip?md5=g_741xYvdsQ42IQqMgLXEA&expires=1763187008&shardkey=478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13&filename=changes.zip
+
+2025/11/15 下午 01:55:07
+fileGuid=478d1f4cb5e54318a7e9315f9c71430f
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=13
+
+2025/11/15 下午 01:55:07
+fileName=F-AD-1-14C_試用考核表_v13.docx
+
+2025/11/15 下午 01:55:07 手動保存完成：D:\WebUpLoad\TCCDCBPM_Upload\公文文件\星能\人力資源\績效考核\手動存檔\F-AD-1-14C_試用考核表_v14_20251115135507.docx
+2025/11/15 下午 02:15:39
+status=2
+key=478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13
+fileUrl=http://172.20.10.5:8080/cache/files/data/478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13_4975/output.docx/output.docx?md5=DD2Lzpf_mN0SfoCPmD_QQg&expires=1763188237&shardkey=478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13_4975/changes.zip/changes.zip?md5=cHjrfQhuZM38DcmVoJqHjQ&expires=1763188237&shardkey=478d1f4cb5e54318a7e9315f9c71430f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_13&filename=changes.zip
+
+2025/11/15 下午 02:15:39
+fileGuid=478d1f4cb5e54318a7e9315f9c71430f
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=13
+
+2025/11/15 下午 02:15:39
+fileName=F-AD-1-14C_試用考核表_v13.docx
+
+[2025/11/15 下午 02:15:39]
+Tag = 部門
+Type = text
+Value = testtest
+
+[2025/11/15 下午 02:15:39]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = date
+Value = 2025年11月21日
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = aaaaaa
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = combobox
+Value = 選擇項目
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = dropdown
+Value = test
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = Tetst
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:15:39]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 下午 02:16:05
+status=1
+key=6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 02:16:05
+fileGuid=6d43b022f5f1493280c10c92bd71ef01
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=14
+
+2025/11/15 下午 02:16:05
+fileName=F-AD-1-14C_試用考核表_v14.docx
+
+2025/11/15 下午 02:16:29
+status=6
+key=6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14
+fileUrl=http://172.20.10.5:8080/cache/files/data/6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14_2018/output.docx/output.docx?md5=UReYYx7Pk9DZE_D6Pa7--Q&expires=1763188290&shardkey=6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14_2018/changes.zip/changes.zip?md5=JuinSs4vbOfws4DqEA19og&expires=1763188290&shardkey=6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14&filename=changes.zip
+
+2025/11/15 下午 02:16:29
+fileGuid=6d43b022f5f1493280c10c92bd71ef01
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=14
+
+2025/11/15 下午 02:16:29
+fileName=F-AD-1-14C_試用考核表_v14.docx
+
+2025/11/15 下午 02:20:13
+status=2
+key=6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14
+fileUrl=http://172.20.10.5:8080/cache/files/data/6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14_1069/output.docx/output.docx?md5=a5TwMcT5FCn_3D52diwTvw&expires=1763188513&shardkey=6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14_1069/changes.zip/changes.zip?md5=CwWHnw48tviTtl-egdG4kw&expires=1763188513&shardkey=6d43b022f5f1493280c10c92bd71ef01_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_14&filename=changes.zip
+
+2025/11/15 下午 02:20:13
+fileGuid=6d43b022f5f1493280c10c92bd71ef01
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=14
+
+2025/11/15 下午 02:20:13
+fileName=F-AD-1-14C_試用考核表_v14.docx
+
+[2025/11/15 下午 02:20:13]
+Tag = 部門
+Type = text
+Value = 測試部門
+
+[2025/11/15 下午 02:20:13]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = date
+Value = 2025年11月21日
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = aaaaaa
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = combobox
+Value = 選擇項目
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = dropdown
+Value = test
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = Tetst
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:20:13]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 下午 02:20:23
+status=1
+key=9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 02:20:23
+fileGuid=9680ba6d76b045acb6bbaad3c3d34339
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=15
+
+2025/11/15 下午 02:20:23
+fileName=F-AD-1-14C_試用考核表_v15.docx
+
+2025/11/15 下午 02:20:36
+status=6
+key=9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15
+fileUrl=http://172.20.10.5:8080/cache/files/data/9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15_6197/output.docx/output.docx?md5=nrac8AC_TLpgSYUCxbGzvg&expires=1763188537&shardkey=9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15_6197/changes.zip/changes.zip?md5=CM9LFM06_M1wdbr2ke5JRw&expires=1763188537&shardkey=9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15&filename=changes.zip
+
+2025/11/15 下午 02:20:36
+fileGuid=9680ba6d76b045acb6bbaad3c3d34339
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=15
+
+2025/11/15 下午 02:20:36
+fileName=F-AD-1-14C_試用考核表_v15.docx
+
+2025/11/15 下午 02:23:35
+status=2
+key=9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15
+fileUrl=http://172.20.10.5:8080/cache/files/data/9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15_3131/output.docx/output.docx?md5=h_rB2R9ElWpHoKYtETfu2Q&expires=1763188715&shardkey=9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15_3131/changes.zip/changes.zip?md5=mQ0qcZVgOats44IzZKOAiw&expires=1763188715&shardkey=9680ba6d76b045acb6bbaad3c3d34339_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_15&filename=changes.zip
+
+2025/11/15 下午 02:23:35
+fileGuid=9680ba6d76b045acb6bbaad3c3d34339
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=15
+
+2025/11/15 下午 02:23:35
+fileName=F-AD-1-14C_試用考核表_v15.docx
+
+[2025/11/15 下午 02:23:35]
+Tag = 部門
+Type = text
+Value = 測試部門233
+
+[2025/11/15 下午 02:23:35]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = date
+Value = 2025年11月21日
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = aaaaaa
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = combobox
+Value = 選擇項目
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = dropdown
+Value = test
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = Tetst
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:23:35]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 下午 02:23:43
+status=1
+key=241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 02:23:43
+fileGuid=241266e790ee4183bf9a2564fabec767
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=16
+
+2025/11/15 下午 02:23:43
+fileName=F-AD-1-14C_試用考核表_v16.docx
+
+2025/11/15 下午 02:23:53
+status=6
+key=241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16
+fileUrl=http://172.20.10.5:8080/cache/files/data/241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16_1794/output.docx/output.docx?md5=7UYpkbVxHWsYNqKudQnTBg&expires=1763188733&shardkey=241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16_1794/changes.zip/changes.zip?md5=b8PWgKW4m4U-ECSYQBTDcw&expires=1763188733&shardkey=241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16&filename=changes.zip
+
+2025/11/15 下午 02:23:53
+fileGuid=241266e790ee4183bf9a2564fabec767
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=16
+
+2025/11/15 下午 02:23:53
+fileName=F-AD-1-14C_試用考核表_v16.docx
+
+2025/11/15 下午 02:25:04
+status=2
+key=241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16
+fileUrl=http://172.20.10.5:8080/cache/files/data/241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16_89/output.docx/output.docx?md5=Roq2OeQmo76WTBK_fBAzaw&expires=1763188805&shardkey=241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16_89/changes.zip/changes.zip?md5=WZMPNC-FFDAQWKEYtR_8Sg&expires=1763188805&shardkey=241266e790ee4183bf9a2564fabec767_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_16&filename=changes.zip
+
+2025/11/15 下午 02:25:04
+fileGuid=241266e790ee4183bf9a2564fabec767
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=16
+
+2025/11/15 下午 02:25:04
+fileName=F-AD-1-14C_試用考核表_v16.docx
+
+[2025/11/15 下午 02:25:05]
+Tag = 部門
+Type = text
+Value = 測試部門3
+
+[2025/11/15 下午 02:25:05]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = date
+Value = 2025年11月21日
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = date
+Value = 2025年11月14日
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = aaaaaa
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = combobox
+Value = 選擇項目
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = dropdown
+Value = test
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = Tetst
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 5
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = checkbox
+Value = 1
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 02:25:05]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 下午 02:25:16
+status=1
+key=a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 02:25:16
+fileGuid=a584d41f0ea240e9a318b66b3f6ce25d
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=17
+
+2025/11/15 下午 02:25:16
+fileName=F-AD-1-14C_試用考核表_v17.docx
+
+2025/11/15 下午 02:25:28
+status=6
+key=a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17
+fileUrl=http://172.20.10.5:8080/cache/files/data/a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17_9950/output.docx/output.docx?md5=Q_sjcdVw-Iy6tla_dImCYg&expires=1763188829&shardkey=a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17_9950/changes.zip/changes.zip?md5=xMPIrPNEOFa7C0cC2jl_1A&expires=1763188829&shardkey=a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17&filename=changes.zip
+
+2025/11/15 下午 02:25:28
+fileGuid=a584d41f0ea240e9a318b66b3f6ce25d
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=17
+
+2025/11/15 下午 02:25:28
+fileName=F-AD-1-14C_試用考核表_v17.docx
+
+2025/11/15 下午 03:12:25
+status=2
+key=a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17
+fileUrl=http://172.20.10.5:8080/cache/files/data/a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17_5546/output.docx/output.docx?md5=7LzMZzvwvjGKLaPEzvaFZA&expires=1763191644&shardkey=a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17_5546/changes.zip/changes.zip?md5=rgWRd_L6YQrMWXBo8tKuOQ&expires=1763191644&shardkey=a584d41f0ea240e9a318b66b3f6ce25d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_17&filename=changes.zip
+
+2025/11/15 下午 03:12:25
+fileGuid=a584d41f0ea240e9a318b66b3f6ce25d
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=17
+
+2025/11/15 下午 03:12:25
+fileName=F-AD-1-14C_試用考核表_v17.docx
+
+[2025/11/15 下午 03:12:25]
+Tag = 部門
+Type = text
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = 
+Value = 3
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:12:25]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 下午 03:13:01
+status=1
+key=083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 03:13:01
+fileGuid=083dd77c7b2147699539988ac6a4e249
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=18
+
+2025/11/15 下午 03:13:01
+fileName=F-AD-1-14C_試用考核表_v18.docx
+
+2025/11/15 下午 03:15:52
+status=1
+key=083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 03:15:52
+fileGuid=083dd77c7b2147699539988ac6a4e249
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=18
+
+2025/11/15 下午 03:15:52
+fileName=F-AD-1-14C_試用考核表_v18.docx
+
+2025/11/15 下午 03:29:15
+status=6
+key=083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18
+fileUrl=http://172.20.10.5:8080/cache/files/data/083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18_6050/output.docx/output.docx?md5=Bf6rk5EtLUV7pEKsN2NkWQ&expires=1763192656&shardkey=083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18_6050/changes.zip/changes.zip?md5=AmBOf0TdB8DY2CHef3Ndcw&expires=1763192656&shardkey=083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18&filename=changes.zip
+
+2025/11/15 下午 03:29:15
+fileGuid=083dd77c7b2147699539988ac6a4e249
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=18
+
+2025/11/15 下午 03:29:15
+fileName=F-AD-1-14C_試用考核表_v18.docx
+
+2025/11/15 下午 03:30:45
+status=2
+key=083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18
+fileUrl=http://172.20.10.5:8080/cache/files/data/083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18_4156/output.docx/output.docx?md5=S6HDi4jakVgqY1wutP09zA&expires=1763192746&shardkey=083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18_4156/changes.zip/changes.zip?md5=Nf7_Q8htKt22ONVg3xWoTw&expires=1763192746&shardkey=083dd77c7b2147699539988ac6a4e249_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_18&filename=changes.zip
+
+2025/11/15 下午 03:30:45
+fileGuid=083dd77c7b2147699539988ac6a4e249
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=18
+
+2025/11/15 下午 03:30:45
+fileName=F-AD-1-14C_試用考核表_v18.docx
+
+[2025/11/15 下午 03:30:45]
+Tag = 部門
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = text
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = date
+Value = 
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 03:30:45]
+Tag = 
+Type = checkbox
+Value = 0
+
+2025/11/15 下午 04:02:47
+status=1
+key=e54516692d004fc9b98e3f774a0e5f8b_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_19
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 04:02:47
+fileGuid=e54516692d004fc9b98e3f774a0e5f8b
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=19
+
+2025/11/15 下午 04:02:47
+fileName=F-AD-1-14C_試用考核表_v19.docx
+
+2025/11/15 下午 04:24:23
+status=4
+key=e54516692d004fc9b98e3f774a0e5f8b_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_19
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 04:24:23
+fileGuid=e54516692d004fc9b98e3f774a0e5f8b
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=19
+
+2025/11/15 下午 04:24:23
+fileName=F-AD-1-14C_試用考核表_v19.docx
+
+2025/11/15 下午 04:26:33
+status=1
+key=e54516692d004fc9b98e3f774a0e5f8b_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_19
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 04:26:33
+fileGuid=e54516692d004fc9b98e3f774a0e5f8b
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=19
+
+2025/11/15 下午 04:26:33
+fileName=F-AD-1-14C_試用考核表_v19.docx
+
+2025/11/15 下午 04:27:12
+status=2
+key=e54516692d004fc9b98e3f774a0e5f8b_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_19
+fileUrl=http://172.20.10.5:8080/cache/files/data/e54516692d004fc9b98e3f774a0e5f8b_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_19_8817/output.docx/output.docx?md5=m97Uxh7JNHnxq0P1z2BbhQ&expires=1763196133&shardkey=e54516692d004fc9b98e3f774a0e5f8b_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_19&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/e54516692d004fc9b98e3f774a0e5f8b_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_19_8817/changes.zip/changes.zip?md5=wEDQZEci9aTKV6gle7Z2IQ&expires=1763196133&shardkey=e54516692d004fc9b98e3f774a0e5f8b_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_19&filename=changes.zip
+
+2025/11/15 下午 04:27:12
+fileGuid=e54516692d004fc9b98e3f774a0e5f8b
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=19
+
+2025/11/15 下午 04:27:12
+fileName=F-AD-1-14C_試用考核表_v19.docx
+
+[2025/11/15 下午 04:27:12]
+Tag = 部門
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = 姓名
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = 員工工號
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = cc_0001
+Type = date
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = cc_0002
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = cc_0003
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = cc_0004
+Type = date
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = cc_0005
+Type = date
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = cc_0006
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = cc_0007
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = cc_0008
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = cc_0009
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:12]
+Tag = cc_0010
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0011
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0012
+Type = date
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0013
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0014
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0015
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0016
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0017
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0018
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0019
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0020
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0021
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0022
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0023
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0024
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0025
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0026
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0027
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0028
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0029
+Type = date
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0030
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0031
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0032
+Type = date
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0033
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0034
+Type = date
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0035
+Type = text
+Value = 
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0036
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:27:13]
+Tag = cc_0037
+Type = checkbox
+Value = 0
+
+2025/11/15 下午 04:28:38
+status=1
+key=6fdd5f976e2f42f3b44eef4d562f0a85_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_20
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 04:28:38
+fileGuid=6fdd5f976e2f42f3b44eef4d562f0a85
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=20
+
+2025/11/15 下午 04:28:38
+fileName=F-AD-1-14C_試用考核表_v20.docx
+
+2025/11/15 下午 04:30:57
+status=1
+key=6fdd5f976e2f42f3b44eef4d562f0a85_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_20
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 04:30:57
+fileGuid=6fdd5f976e2f42f3b44eef4d562f0a85
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=20
+
+2025/11/15 下午 04:30:57
+fileName=F-AD-1-14C_試用考核表_v20.docx
+
+2025/11/15 下午 04:30:57
+由於另一個處理序正在使用檔案 'D:\Git\TCCDCBPM\Program\TCCDCBPM\log-callback.txt'，所以無法存取該檔案。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   於 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   於 System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   於 System.IO.File.InternalAppendAllText(String path, String contents, Encoding encoding)
+   於 handler_SaveCallback.Page_Load(Object sender, EventArgs e) 於 d:\Git\TCCDCBPM\Program\TCCDCBPM\handler\SaveCallback.aspx.cs: 行 892025/11/15 下午 04:31:22
+status=4
+key=6fdd5f976e2f42f3b44eef4d562f0a85_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_20
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 04:31:22
+fileGuid=6fdd5f976e2f42f3b44eef4d562f0a85
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=20
+
+2025/11/15 下午 04:31:22
+fileName=F-AD-1-14C_試用考核表_v20.docx
+
+2025/11/15 下午 04:31:25
+status=1
+key=6fdd5f976e2f42f3b44eef4d562f0a85_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_20
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 04:31:25
+fileGuid=6fdd5f976e2f42f3b44eef4d562f0a85
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=20
+
+2025/11/15 下午 04:31:25
+fileName=F-AD-1-14C_試用考核表_v20.docx
+
+2025/11/15 下午 04:32:29
+status=2
+key=6fdd5f976e2f42f3b44eef4d562f0a85_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_20
+fileUrl=http://172.20.10.5:8080/cache/files/data/6fdd5f976e2f42f3b44eef4d562f0a85_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_20_1817/output.docx/output.docx?md5=8_yleSp-CdYLbfyqePfsIA&expires=1763196450&shardkey=6fdd5f976e2f42f3b44eef4d562f0a85_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_20&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/6fdd5f976e2f42f3b44eef4d562f0a85_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_20_1817/changes.zip/changes.zip?md5=9VI_AIaoeNdha0h0mAs5kQ&expires=1763196450&shardkey=6fdd5f976e2f42f3b44eef4d562f0a85_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_20&filename=changes.zip
+
+2025/11/15 下午 04:32:29
+fileGuid=6fdd5f976e2f42f3b44eef4d562f0a85
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=20
+
+2025/11/15 下午 04:32:29
+fileName=F-AD-1-14C_試用考核表_v20.docx
+
+[2025/11/15 下午 04:32:30]
+Tag = 部門
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = 姓名
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = 員工工號
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0001
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0002
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0003
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0004
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0005
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0006
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0007
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0008
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0009
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0010
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0011
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0012
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0013
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0014
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0015
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0016
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0017
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0018
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0019
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0020
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0021
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0022
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0023
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0024
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0025
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0026
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0027
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0028
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0029
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0030
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0031
+Type = text
+Value = 在此輸入文字
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0032
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0033
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0034
+Type = date
+Value = 請輸入日期
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0035
+Type = dropdown
+Value = 選擇項目
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0036
+Type = checkbox
+Value = 0
+
+[2025/11/15 下午 04:32:30]
+Tag = cc_0037
+Type = checkbox
+Value = 0
+
+2025/11/15 下午 04:32:51
+status=1
+key=ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 04:32:51
+fileGuid=ca1f5cf23f1345dabfe6553c9b671a24
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=21
+
+2025/11/15 下午 04:32:51
+fileName=F-AD-1-14C_試用考核表_v21.docx
+
+2025/11/15 下午 04:54:35
+status=4
+key=ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/15 下午 04:54:35
+fileGuid=ca1f5cf23f1345dabfe6553c9b671a24
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=21
+
+2025/11/15 下午 04:54:35
+fileName=F-AD-1-14C_試用考核表_v21.docx
+
+2025/11/16 上午 08:51:44
+status=4
+key=ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 上午 08:51:44
+fileGuid=ca1f5cf23f1345dabfe6553c9b671a24
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=21
+
+2025/11/16 上午 08:51:44
+fileName=F-AD-1-14C_試用考核表_v21.docx
+
+2025/11/16 上午 08:55:36
+status=1
+key=ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 上午 08:55:36
+fileGuid=ca1f5cf23f1345dabfe6553c9b671a24
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=21
+
+2025/11/16 上午 08:55:36
+fileName=F-AD-1-14C_試用考核表_v21.docx
+
+2025/11/16 上午 08:56:10
+status=6
+key=ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21
+fileUrl=http://172.20.10.5:8080/cache/files/data/ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21_168/output.docx/output.docx?md5=XPMLNVgqYoYdZ7z0OuYd5g&expires=1763255471&shardkey=ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21_168/changes.zip/changes.zip?md5=c4Ya2QqR8u0itkjxbxa3Xg&expires=1763255471&shardkey=ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21&filename=changes.zip
+
+2025/11/16 上午 08:56:10
+fileGuid=ca1f5cf23f1345dabfe6553c9b671a24
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=21
+
+2025/11/16 上午 08:56:10
+fileName=F-AD-1-14C_試用考核表_v21.docx
+
+2025/11/16 上午 09:11:24
+status=2
+key=ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21
+fileUrl=http://172.20.10.5:8080/cache/files/data/ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21_804/output.docx/output.docx?md5=ebhpvbBG89XojS7etAyYKg&expires=1763256385&shardkey=ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21_804/changes.zip/changes.zip?md5=v6zR-Q2wZyhCCSshiesc8w&expires=1763256385&shardkey=ca1f5cf23f1345dabfe6553c9b671a24_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_21&filename=changes.zip
+
+2025/11/16 上午 09:11:24
+fileGuid=ca1f5cf23f1345dabfe6553c9b671a24
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=21
+
+2025/11/16 上午 09:11:24
+fileName=F-AD-1-14C_試用考核表_v21.docx
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0001
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0002
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0003
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0001
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0002
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0003
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0004
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0005
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0006
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0007
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0008
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0009
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0010
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0011
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0012
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0013
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0014
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0015
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0016
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0017
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0018
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0019
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0020
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0021
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0022
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0023
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0024
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0025
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0026
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0027
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0028
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0029
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0030
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0031
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0032
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0033
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0034
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0035
+Type = dropdown
+Value = 選擇項目
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0036
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:11:25]
+Tag = cc_0037
+Type = checkbox
+Value = 0
+
+2025/11/16 上午 09:13:16
+status=1
+key=46c7f25f8fd14be5b34baf93dc1788f3_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_22
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 上午 09:13:16
+fileGuid=46c7f25f8fd14be5b34baf93dc1788f3
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=22
+
+2025/11/16 上午 09:13:16
+fileName=F-AD-1-14C_試用考核表_v22.docx
+
+2025/11/16 上午 09:21:00
+status=2
+key=46c7f25f8fd14be5b34baf93dc1788f3_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_22
+fileUrl=http://172.20.10.5:8080/cache/files/data/46c7f25f8fd14be5b34baf93dc1788f3_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_22_1805/output.docx/output.docx?md5=iidctQ5y9oVzbFOFsCnE6g&expires=1763256958&shardkey=46c7f25f8fd14be5b34baf93dc1788f3_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_22&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/46c7f25f8fd14be5b34baf93dc1788f3_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_22_1805/changes.zip/changes.zip?md5=izQ9ViZR2IlYWJ8MymNnNg&expires=1763256958&shardkey=46c7f25f8fd14be5b34baf93dc1788f3_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_22&filename=changes.zip
+
+2025/11/16 上午 09:21:00
+fileGuid=46c7f25f8fd14be5b34baf93dc1788f3
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=22
+
+2025/11/16 上午 09:21:00
+fileName=F-AD-1-14C_試用考核表_v22.docx
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0038
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0039
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0040
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0001
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0002
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0003
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0004
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0005
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0006
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0007
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0008
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0009
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0010
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0011
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0012
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0013
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0014
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0015
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0016
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0017
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0018
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0019
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0020
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0021
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0022
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0023
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0024
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0025
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0026
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0027
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0028
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0029
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0030
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0031
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0032
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0033
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0034
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0035
+Type = dropdown
+Value = 選擇項目
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0036
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:21:00]
+Tag = cc_0037
+Type = checkbox
+Value = 0
+
+2025/11/16 上午 09:22:35
+status=1
+key=c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 上午 09:22:35
+fileGuid=c029e6dbe2564d909ba4ca2be759cdd2
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=23
+
+2025/11/16 上午 09:22:35
+fileName=F-AD-1-14C_試用考核表_v23.docx
+
+2025/11/16 上午 09:41:06
+status=6
+key=c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23
+fileUrl=http://172.20.10.5:8080/cache/files/data/c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23_5028/output.docx/output.docx?md5=kk6y-N9Vb-JI__F21R1gPg&expires=1763258167&shardkey=c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23_5028/changes.zip/changes.zip?md5=qIIk898pU6xP4Zkv-DgoIg&expires=1763258167&shardkey=c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23&filename=changes.zip
+
+2025/11/16 上午 09:41:06
+fileGuid=c029e6dbe2564d909ba4ca2be759cdd2
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=23
+
+2025/11/16 上午 09:41:06
+fileName=F-AD-1-14C_試用考核表_v23.docx
+
+2025/11/16 上午 09:42:13
+status=2
+key=c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23
+fileUrl=http://172.20.10.5:8080/cache/files/data/c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23_4509/output.docx/output.docx?md5=MQG8Ookc94GU-IMhq5-k1Q&expires=1763258234&shardkey=c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23_4509/changes.zip/changes.zip?md5=JG20i82wTmRCPm36H4sxVg&expires=1763258234&shardkey=c029e6dbe2564d909ba4ca2be759cdd2_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_23&filename=changes.zip
+
+2025/11/16 上午 09:42:13
+fileGuid=c029e6dbe2564d909ba4ca2be759cdd2
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=23
+
+2025/11/16 上午 09:42:13
+fileName=F-AD-1-14C_試用考核表_v23.docx
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0038
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0039
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0040
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0001
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0002
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0003
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0004
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0005
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0006
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0007
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0008
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0009
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0010
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0011
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0012
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0013
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0014
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0015
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0016
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0017
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0018
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0019
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0020
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0021
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0022
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0023
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0024
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0025
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0026
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0027
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0028
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0029
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0030
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0031
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0032
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0033
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0034
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0036
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 09:42:14]
+Tag = cc_0037
+Type = checkbox
+Value = 0
+
+2025/11/16 上午 11:02:20
+status=1
+key=75d4c5336d424bc08ed7ab48b6831484_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_24
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 上午 11:02:20
+fileGuid=75d4c5336d424bc08ed7ab48b6831484
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=24
+
+2025/11/16 上午 11:02:20
+fileName=F-AD-1-14C_試用考核表_v24.docx
+
+2025/11/16 上午 11:03:02
+status=2
+key=75d4c5336d424bc08ed7ab48b6831484_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_24
+fileUrl=http://172.20.10.5:8080/cache/files/data/75d4c5336d424bc08ed7ab48b6831484_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_24_3015/output.docx/output.docx?md5=TEWAZWPLaCwgVkGGg6l1Fw&expires=1763263083&shardkey=75d4c5336d424bc08ed7ab48b6831484_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_24&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/75d4c5336d424bc08ed7ab48b6831484_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_24_3015/changes.zip/changes.zip?md5=o5doBLZyUnwbZUnveb6bAA&expires=1763263083&shardkey=75d4c5336d424bc08ed7ab48b6831484_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_24&filename=changes.zip
+
+2025/11/16 上午 11:03:02
+fileGuid=75d4c5336d424bc08ed7ab48b6831484
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=24
+
+2025/11/16 上午 11:03:02
+fileName=F-AD-1-14C_試用考核表_v24.docx
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0038
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0039
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0040
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0001
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0002
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0003
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0004
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0005
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0006
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0007
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0008
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0009
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0010
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0011
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0012
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0013
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0014
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0015
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0016
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0017
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0018
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0019
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0020
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0021
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0022
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0023
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0024
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0025
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0026
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0027
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0028
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0029
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0030
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0031
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0032
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0033
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0034
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0036
+Type = checkbox
+Value = 0
+
+[2025/11/16 上午 11:03:03]
+Tag = cc_0037
+Type = checkbox
+Value = 0
+
