@@ -9033,3 +9033,686 @@ Tag = cc_0037
 Type = checkbox
 Value = 0
 
+2025/11/16 下午 02:51:41
+status=1
+key=4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 下午 02:51:41
+fileGuid=4e65c61d26fa497f85090a3d2752d2bf
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=25
+
+2025/11/16 下午 02:51:41
+fileName=F-AD-1-14C_試用考核表_v25.docx
+
+2025/11/16 下午 02:53:06
+status=6
+key=4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25
+fileUrl=http://172.20.10.5:8080/cache/files/data/4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25_3534/output.docx/output.docx?md5=krfp-o9Ju0qCG81U0Od5eA&expires=1763276887&shardkey=4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25_3534/changes.zip/changes.zip?md5=Q2QdP-0ylty0UqvpZoISHA&expires=1763276887&shardkey=4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25&filename=changes.zip
+
+2025/11/16 下午 02:53:06
+fileGuid=4e65c61d26fa497f85090a3d2752d2bf
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=25
+
+2025/11/16 下午 02:53:06
+fileName=F-AD-1-14C_試用考核表_v25.docx
+
+2025/11/16 下午 02:55:02
+status=2
+key=4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25
+fileUrl=http://172.20.10.5:8080/cache/files/data/4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25_7332/output.docx/output.docx?md5=_vBMuG1FluwYpCQGeYX9aw&expires=1763277003&shardkey=4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25_7332/changes.zip/changes.zip?md5=5YhJm3gHG70OgiKKQRRihA&expires=1763277003&shardkey=4e65c61d26fa497f85090a3d2752d2bf_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_25&filename=changes.zip
+
+2025/11/16 下午 02:55:02
+fileGuid=4e65c61d26fa497f85090a3d2752d2bf
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=25
+
+2025/11/16 下午 02:55:02
+fileName=F-AD-1-14C_試用考核表_v25.docx
+
+2025/11/16 下午 02:55:46
+status=1
+key=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 下午 02:55:46
+fileGuid=62cb0aa2321b4060be0b80eafc671335
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=26
+
+2025/11/16 下午 02:55:46
+fileName=F-AD-1-14C_試用考核表_v26.docx
+
+2025/11/16 下午 03:05:36
+status=2
+key=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26
+fileUrl=http://172.20.10.5:8080/cache/files/data/62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26_8570/output.docx/output.docx?md5=hkUlFFnIsT52XnA1Kys-6g&expires=1763277637&shardkey=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26_8570/changes.zip/changes.zip?md5=r_AiJHrIxVOkoZ7drAldOA&expires=1763277637&shardkey=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26&filename=changes.zip
+
+2025/11/16 下午 03:05:36
+fileGuid=62cb0aa2321b4060be0b80eafc671335
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=26
+
+2025/11/16 下午 03:05:36
+fileName=F-AD-1-14C_試用考核表_v26.docx
+
+2025/11/16 下午 03:19:09
+status=1
+key=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 下午 03:19:09
+fileGuid=62cb0aa2321b4060be0b80eafc671335
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=26
+
+2025/11/16 下午 03:19:09
+fileName=F-AD-1-14C_試用考核表_v26.docx
+
+2025/11/16 下午 03:19:27
+status=2
+key=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26
+fileUrl=http://172.20.10.5:8080/cache/files/data/62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26_4679/output.docx/output.docx?md5=FjWJNTa4Wzr5ihNapAydJg&expires=1763278468&shardkey=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26_4679/changes.zip/changes.zip?md5=xLLrsU_0V4_Yuk95l1EPMQ&expires=1763278468&shardkey=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26&filename=changes.zip
+
+2025/11/16 下午 03:19:27
+fileGuid=62cb0aa2321b4060be0b80eafc671335
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=26
+
+2025/11/16 下午 03:19:27
+fileName=F-AD-1-14C_試用考核表_v26.docx
+
+2025/11/16 下午 03:51:15
+status=1
+key=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 下午 03:51:15
+fileGuid=62cb0aa2321b4060be0b80eafc671335
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=26
+
+2025/11/16 下午 03:51:15
+fileName=F-AD-1-14C_試用考核表_v26.docx
+
+2025/11/16 下午 03:51:23
+status=6
+key=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26
+fileUrl=http://172.20.10.5:8080/cache/files/data/62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26_6347/output.docx/output.docx?md5=I4t3wchViDH0Z8TTf8jEfQ&expires=1763280384&shardkey=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26_6347/changes.zip/changes.zip?md5=wg-kJRJL9DErcvYH5frn-g&expires=1763280384&shardkey=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26&filename=changes.zip
+
+2025/11/16 下午 03:51:23
+fileGuid=62cb0aa2321b4060be0b80eafc671335
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=26
+
+2025/11/16 下午 03:51:23
+fileName=F-AD-1-14C_試用考核表_v26.docx
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0038
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0039
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0040
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0001
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0002
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0003
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0004
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0005
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0006
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0007
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0008
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0009
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0010
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0011
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0012
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0013
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0014
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0015
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0016
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0017
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0018
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0019
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0020
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0021
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0022
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0023
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0024
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0025
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0026
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0027
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0028
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0029
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0030
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0031
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0032
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0033
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0034
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0036
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 03:51:23]
+Tag = cc_0037
+Type = checkbox
+Value = 0
+
+2025/11/16 下午 04:05:52
+status=2
+key=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26
+fileUrl=http://172.20.10.5:8080/cache/files/data/62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26_1909/output.docx/output.docx?md5=sPDljKBwyZjYBeQ03cVmNQ&expires=1763281252&shardkey=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26_1909/changes.zip/changes.zip?md5=bqe79MVCFUBvNxx69OmqhQ&expires=1763281252&shardkey=62cb0aa2321b4060be0b80eafc671335_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_26&filename=changes.zip
+
+2025/11/16 下午 04:05:52
+status=1
+key=a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 下午 04:05:52
+fileGuid=62cb0aa2321b4060be0b80eafc671335
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=26
+
+2025/11/16 下午 04:05:52
+fileGuid=a1eda414ffb744cd8572c31c725f202d
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=27
+
+2025/11/16 下午 04:05:52
+fileName=F-AD-1-14C_試用考核表_v26.docx
+
+2025/11/16 下午 04:05:52
+fileName=F-AD-1-14C_試用考核表_v27.docx
+
+2025/11/16 下午 04:06:22
+status=6
+key=a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27
+fileUrl=http://172.20.10.5:8080/cache/files/data/a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27_8678/output.docx/output.docx?md5=41HarI7r5t5PbVi_AbTmCw&expires=1763281283&shardkey=a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27_8678/changes.zip/changes.zip?md5=rttAqHD9Tj5Won_r3awFEQ&expires=1763281283&shardkey=a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27&filename=changes.zip
+
+2025/11/16 下午 04:06:22
+fileGuid=a1eda414ffb744cd8572c31c725f202d
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=27
+
+2025/11/16 下午 04:06:22
+fileName=F-AD-1-14C_試用考核表_v27.docx
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0038
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0039
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0040
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0001
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0002
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0003
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0004
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0005
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0006
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0007
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0008
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0009
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0010
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0011
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0012
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0013
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0014
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0015
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0016
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0017
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0041
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0018
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0019
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0020
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0021
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0022
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0023
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0024
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0025
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0026
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0027
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0028
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0029
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0030
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0031
+Type = text
+Value = 在此輸入文字
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0032
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0033
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0034
+Type = date
+Value = 請輸入日期
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0036
+Type = checkbox
+Value = 0
+
+[2025/11/16 下午 04:06:22]
+Tag = cc_0037
+Type = checkbox
+Value = 0
+
+2025/11/16 下午 04:07:32
+status=2
+key=a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27
+fileUrl=http://172.20.10.5:8080/cache/files/data/a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27_2859/output.docx/output.docx?md5=iAzjok_mtNHgpRDmmxce3g&expires=1763281353&shardkey=a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27_2859/changes.zip/changes.zip?md5=QSvc_macZYOg44sIHMcQyg&expires=1763281353&shardkey=a1eda414ffb744cd8572c31c725f202d_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_27&filename=changes.zip
+
+2025/11/16 下午 04:07:32
+fileGuid=a1eda414ffb744cd8572c31c725f202d
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=27
+
+2025/11/16 下午 04:07:32
+fileName=F-AD-1-14C_試用考核表_v27.docx
+
+2025/11/16 下午 04:08:40
+status=1
+key=dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 下午 04:08:40
+fileGuid=dd1dad4cdfba4251af757b3363d8cf7f
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=28
+
+2025/11/16 下午 04:08:40
+fileName=F-AD-1-14C_試用考核表_v28.docx
+
+2025/11/16 下午 04:10:12
+status=2
+key=dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28
+fileUrl=http://172.20.10.5:8080/cache/files/data/dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28_5144/output.docx/output.docx?md5=f7hOXXWeea36n6vZRyXwcA&expires=1763281513&shardkey=dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28_5144/changes.zip/changes.zip?md5=DuAU8MTDJkh9jfZ9Sruw6g&expires=1763281513&shardkey=dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28&filename=changes.zip
+
+2025/11/16 下午 04:10:12
+fileGuid=dd1dad4cdfba4251af757b3363d8cf7f
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=28
+
+2025/11/16 下午 04:10:12
+fileName=F-AD-1-14C_試用考核表_v28.docx
+
+2025/11/16 下午 04:17:49
+status=1
+key=dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 下午 04:17:49
+fileGuid=dd1dad4cdfba4251af757b3363d8cf7f
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=28
+
+2025/11/16 下午 04:17:49
+fileName=F-AD-1-14C_試用考核表_v28.docx
+
+2025/11/16 下午 04:18:21
+status=2
+key=dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28
+fileUrl=http://172.20.10.5:8080/cache/files/data/dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28_3366/output.docx/output.docx?md5=cmlBPjA1IvSijiy9lOk-XA&expires=1763282002&shardkey=dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28&filename=output.docx
+fileName=
+editorUser=333
+change=http://172.20.10.5:8080/cache/files/data/dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28_3366/changes.zip/changes.zip?md5=WtAJExlAvqRMrr2DVpB-HQ&expires=1763282002&shardkey=dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28&filename=changes.zip
+
+2025/11/16 下午 04:18:21
+fileGuid=dd1dad4cdfba4251af757b3363d8cf7f
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=28
+
+2025/11/16 下午 04:18:21
+fileName=F-AD-1-14C_試用考核表_v28.docx
+
+2025/11/16 下午 04:30:39
+status=1
+key=dd1dad4cdfba4251af757b3363d8cf7f_92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C_28
+fileUrl=
+fileName=
+editorUser=333
+change=
+
+2025/11/16 下午 04:30:39
+fileGuid=dd1dad4cdfba4251af757b3363d8cf7f
+fileparentGuid=92FCE686-AFF9-4AF0-96EB-DE4A1E5E661C
+PublicFileVersion=28
+
+2025/11/16 下午 04:30:39
+fileName=F-AD-1-14C_試用考核表_v28.docx
+

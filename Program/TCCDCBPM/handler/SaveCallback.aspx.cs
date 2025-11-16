@@ -22,6 +22,7 @@ public partial class handler_SaveCallback : System.Web.UI.Page
 {
     DocManage_DB dmdb = new DocManage_DB();
     FileTable_DB fdb = new FileTable_DB();
+    DocSaveLog_DB dsldb = new DocSaveLog_DB();
     protected void Page_Load(object sender, EventArgs e)
     {
         ///-----------------------------------------------------
@@ -43,6 +44,7 @@ public partial class handler_SaveCallback : System.Web.UI.Page
             string json;
             int status = 0;
             string nowVersion = string.Empty;
+            string latestVersion = string.Empty;
             string key = string.Empty;
             string filepath = string.Empty;
             string fileUrl = string.Empty;
@@ -194,45 +196,14 @@ public partial class handler_SaveCallback : System.Web.UI.Page
                 {
                     string tag = c.Tag;
                     string type = c.Type;
-                    string value = c.Text;
 
-                    // 找是否已存在
-                    DataRow exist = GetFieldDef(oConn, myTrans, fileGuid, Convert.ToInt32(PublicFileVersion), tag);
+                    // ★ 直接新增欄位定義
+                    InsertFieldDef(oConn, myTrans, fileNewGuid, nowVersion,
+                                   tag, type, editorUser);
 
-                    if (exist == null)
-                    {
-                        // ★ 新增欄位定義
-                        InsertFieldDef(oConn, myTrans, fileGuid, Convert.ToInt32(PublicFileVersion),
-                                       tag, type, editorUser);
-
-                        // ★ 寫 log
-                        InsertFieldChangeLog(oConn, myTrans, fileGuid,
-                                             Convert.ToInt32(PublicFileVersion),
-                                             tag, "Add",
-                                             null, null,
-                                             null, type,
-                                             editorUser);
-                    }
-                    else
-                    {
-                        string oldType = exist["項目類型"].ToString();
-
-                        if (oldType != type)
-                        {
-                            // ★ 更新欄位類型
-                            UpdateFieldType(oConn, myTrans, fileGuid,
-                                            Convert.ToInt32(PublicFileVersion),
-                                            tag, type, editorUser);
-
-                            // ★ 寫 log
-                            InsertFieldChangeLog(oConn, myTrans, fileGuid,
-                                                 Convert.ToInt32(PublicFileVersion),
-                                                 tag, "Modify",
-                                                 oldType, type,
-                                                 null, null,
-                                                 editorUser);
-                        }
-                    }
+                    // ★ 寫 Add Log
+                    InsertFieldChangeLog(oConn, myTrans, fileNewGuid, nowVersion,
+                                         tag, "Add", type, type, null, null, editorUser);
                 }
 
 
@@ -249,12 +220,27 @@ public partial class handler_SaveCallback : System.Web.UI.Page
                     );
                 }
                 #endregion
+
+                #region 儲存log
+                dsldb._guid = fileNewGuid;
+                dsldb._狀態 = status.ToString();
+                dsldb._類別 = "手動儲存";
+                dsldb._修改者 = editorUser;
+                dsldb._修改日期 = DateTime.Now;
+                dsldb._建立者 = editorUser;
+                dsldb._建立日期 = DateTime.Now;
+                dsldb.Insert_Trans(oConn, myTrans);
+                #endregion
             }
             #endregion
 
             #region 自動儲存
             if (status == 2 && !string.IsNullOrEmpty(fileUrl))
             {
+                #region 儲存檔案進資料夾
+
+                //取得目前最新版版本
+                string latestFileGuid = string.Empty;
                 fdb._父層guid = fileparentGuid;
                 fdb._檔案類型 = "01";
                 fdb._排序 = PublicFileSn;
@@ -262,22 +248,135 @@ public partial class handler_SaveCallback : System.Web.UI.Page
 
                 if (mddt.Rows.Count > 0)
                 {
-                    nowVersion = mddt.Rows[0]["版本"].ToString().Trim();
+                    latestVersion = mddt.Rows[0]["版本"].ToString().Trim();
+                    latestFileGuid = mddt.Rows[0]["guid"].ToString().Trim();
                 }
                 else
                 {
-                    nowVersion = "1";
+                    latestVersion = "1";
                 }
 
-
-                #region 儲存檔案進資料夾
                 using (var client = new WebClient())
                 {
                     byte[] fileBytes = client.DownloadData(fileUrl + PublicFileNewName + PublicFileExtension);
-                    PublicFileFullName = PublicFileName + "_v" + nowVersion;
+                    PublicFileFullName = PublicFileName + "_v" + latestVersion;
                     string realfilepath = Path.Combine(filepath, PublicFileFullName + PublicFileExtension);
 
                     File.WriteAllBytes(realfilepath, fileBytes);
+                }
+                #endregion
+
+                #region 儲存log
+                dsldb._guid = latestFileGuid;
+                dsldb._狀態 = status.ToString();
+                dsldb._類別 = "自動儲存";
+                dsldb._修改者 = editorUser;
+                dsldb._修改日期 = DateTime.Now;
+                dsldb._建立者 = editorUser;
+                dsldb._建立日期 = DateTime.Now;
+                dsldb.Insert_Trans(oConn, myTrans);
+                #endregion
+
+                #region 儲存進指定表單資料表
+                var controls = ParseContentControls(Path.Combine(filepath, PublicFileName + "_v" + latestVersion + PublicFileExtension));
+
+                // 把 Word 的 Tag 全部放入一個 Set
+                HashSet<string> wordTags = new HashSet<string>(controls.Select(c => c.Tag));
+
+                // 取得目前資料庫該版本所有欄位
+                string sqlGetDbFields =
+                    @"SELECT * FROM 公文欄位定義表
+      WHERE guid=@g AND 版本=@v";
+
+                SqlCommand cmdGet = new SqlCommand(sqlGetDbFields, oConn, myTrans);
+                cmdGet.Parameters.AddWithValue("@g", latestFileGuid);
+                cmdGet.Parameters.AddWithValue("@v", latestVersion);
+
+                DataTable dtDb = new DataTable();
+                new SqlDataAdapter(cmdGet).Fill(dtDb);
+
+                // 方便比對：DB 的 tag → row
+                Dictionary<string, DataRow> dbDic = dtDb.AsEnumerable()
+                    .ToDictionary(r => r["項目代碼"].ToString(), r => r);
+
+
+                //---------------------------------------------------
+                // A. 新增 / 修改：Word 有 → DB 沒有 或 類型不同
+                //---------------------------------------------------
+                foreach (var c in controls)
+                {
+                    string tag = c.Tag;
+                    string type = c.Type;
+
+                    if (!dbDic.ContainsKey(tag))
+                    {
+                        // ★ 新增
+                        InsertFieldDef(oConn, myTrans, latestFileGuid, latestVersion,
+                                       tag, type, editorUser);
+
+                        InsertFieldChangeLog(oConn, myTrans, latestFileGuid, latestVersion,
+                                             tag,
+                                             "Add",
+                                             type, type,
+                                             null, null,
+                                             editorUser);
+                    }
+                    else
+                    {
+                        // 比對類型是否變更
+                        var row = dbDic[tag];
+                        string oldType = row["項目類型"].ToString();
+
+                        if (oldType != type)
+                        {
+                            // ★ 修改
+                            UpdateFieldType(oConn, myTrans, latestFileGuid, latestVersion,
+                                            tag, type, editorUser);
+
+                            InsertFieldChangeLog(oConn, myTrans, latestFileGuid, latestVersion,
+                                                 tag,
+                                                 "Modify",
+                                                 oldType, type,
+                                                 null, null,
+                                                 editorUser);
+                        }
+                    }
+                }
+
+
+                //---------------------------------------------------
+                // B. 刪除：DB 有 → Word 沒有（標註是否已刪除=1）
+                //---------------------------------------------------
+                foreach (var dbTag in dbDic.Keys)
+                {
+                    if (!wordTags.Contains(dbTag))
+                    {
+                        // ★ 標為刪除
+                        string sqlDel =
+                            @"UPDATE 公文欄位定義表
+              SET 是否已刪除 = 1,
+                  修改時間 = GETDATE(),
+                  修改者 = @u
+              WHERE guid=@g AND 版本=@v AND 項目代碼=@t";
+
+                        SqlCommand cmdDel = new SqlCommand(sqlDel, oConn, myTrans);
+                        cmdDel.Parameters.AddWithValue("@u", editorUser);
+                        cmdDel.Parameters.AddWithValue("@g", latestFileGuid);
+                        cmdDel.Parameters.AddWithValue("@v", latestVersion);
+                        cmdDel.Parameters.AddWithValue("@t", dbTag);
+                        cmdDel.ExecuteNonQuery();
+
+                        // ★ 寫 Delete Log
+                        string oldType = dbDic[dbTag]["項目類型"].ToString();
+
+                        InsertFieldChangeLog(oConn, myTrans, latestFileGuid, latestVersion,
+                                             dbTag,
+                                             "Delete",
+                                             oldType, null,
+                                             dbDic[dbTag]["項目名稱"].ToString(),
+                                             null,
+                                             editorUser);
+                    }
                 }
                 #endregion
             }
@@ -625,7 +724,7 @@ public partial class handler_SaveCallback : System.Web.UI.Page
     }
 
     private void InsertFieldDef(SqlConnection conn, SqlTransaction trans,
-                            string guid, int version,
+                            string guid, string version,
                             string tag, string type, string editorUser)
     {
         string sql = @"
@@ -644,7 +743,7 @@ public partial class handler_SaveCallback : System.Web.UI.Page
     }
 
     private void UpdateFieldType(SqlConnection conn, SqlTransaction trans,
-                             string guid, int version, string tag,
+                             string guid, string version, string tag,
                              string newType, string editorUser)
     {
         string sql = @"
@@ -665,7 +764,7 @@ public partial class handler_SaveCallback : System.Web.UI.Page
     }
 
     private void InsertFieldChangeLog(SqlConnection conn, SqlTransaction trans,
-                                  string guid, int version, string tag,
+                                  string guid, string version, string tag,
                                   string changeType,
                                   string oldType, string newType,
                                   string oldName, string newName,
