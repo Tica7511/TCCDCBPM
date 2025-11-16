@@ -1,0 +1,52 @@
+onlyoffice 儲存的status(狀態)類別:
+
+1	Editing	文檔正在編輯中 (或連接/斷開連接)	
+
+
+用戶打開文檔時發送。 當有用戶連接或斷開協作編輯時也會發送。
+您通常需要回覆 {"error":0} 以確認 Document Server 可以正常呼叫您的服務。
+
+
+2	Ready for saving	文檔已準備好保存
+	
+這是您執行最終保存操作的狀態。 在最後一個用戶關閉編輯器後大約 10-15 秒發送。
+您需要從 url 參數中下載修改後的文檔，將其保存到您的儲存位置，然後回覆 {"error":0}。
+
+
+3	Saving error	文檔保存錯誤 (非您這邊的錯誤)	
+
+Document Server 在嘗試保存文檔到緩存時發生內部錯誤。
+這通常表示 Document Server 本身有問題，但您也應檢查您
+的服務是否正確回覆了狀態 1、2、6 的請求。
+
+
+4	Closed without changes	文檔已關閉且未做任何更改
+
+最後一個用戶關閉編輯器，但文檔內容沒有任何變動時發送。
+您通常不需要做任何保存操作，只需回覆 {"error":0}。
+
+
+6	Being edited, but the current document state is saved	文檔正在編輯中，但已強制保存 (Force Save)	
+
+只有在 editorConfig 中啟用了 forcesave: true 或手動發送 forcesave 命令時才會發送。 
+Document Server 會在不關閉編輯器的情況下，提供當前的文檔快照供您暫存。
+您應下載並保存文檔，並考慮是否需要更新文檔的 key 以創建新版本。
+
+
+7	Error occurred while force saving	強制保存時發生錯誤	
+
+嘗試強制保存時 Document Server 發生錯誤。
+
+
+
+
+
+在有對文件做修改的前提下
+
+有手動保存或定時強制保存 (forcesave: true) 的流程:
+
+--> 1 --> 6(或很多個6) --> 2
+
+沒有手動保存，只有最終關閉的流程
+
+--> 1 --> 2
