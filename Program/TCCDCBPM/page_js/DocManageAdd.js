@@ -40,6 +40,7 @@ function getData() {
                         const authToken = $("token", data).text();
                         const onlyofficeguid = $("onlyofficeguid", data).text();
                         const parentguid = $("parentguid", data).text();
+                        const fileRandomGuid = $("fileRandomGuid", data).text();
                         const version = $("version", data).text();
                         const mGuid = $("mGuid", data).text();
                         const mName = $("mName", data).text();
@@ -51,7 +52,7 @@ function getData() {
                         var editorConfig = {
                             "document": {
                                 "fileType": "docx",
-                                "key": onlyofficeguid + '_' + parentguid + '_' + version, //附件guid + 父層guid + 版本
+                                "key": onlyofficeguid + '_' + parentguid + '_' + version + '_' + fileRandomGuid, //附件guid + 父層guid + 版本 + 隨機guid
                                 "title": fileName,
                                 "url": "http://172.20.10.5:7594/DOWNLOAD.aspx?category=Demo&guid=" + onlyofficeguid
                             },
@@ -81,7 +82,7 @@ function getData() {
                                             "layout": false, // 版面配置
                                             "references": false, // 參考文獻
                                             "protect": false, // 保護
-                                            //"plugins": false  // 外掛程式
+                                            "plugins": false  // 外掛程式
                                             // 其他可控分頁（示意）：file, home, insert, layout, draw, view, collaboration ...
                                         }
                                     },
