@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* 基本樣式:版型使用顏色(青)V1801 */
+
+/*  ===== 網站元件樣式 ===== */
+/* font style */
+.font-normal{color:#181818;}
+.font-normal a{color:#428bca;text-decoration: none;border-bottom: 1px solid transparent;transition: all ease-in-out 0.2s;}
+.font-normal a:hover{color:#2a6496;border-color:#2a6496;}
+
+.font-white{color:#FFFFFF;}
+.font-white a{color:#FFFFFF; text-decoration:none;border-bottom: 1px solid transparent;transition: all ease-in-out 0.2s;}
+.font-white a:hover{color:#FF0;border-color:#FF0;}
+.font-title{color:#181818;}
+.font-title a{color:#428bca; text-decoration:none;border-bottom: 1px solid transparent;transition: all ease-in-out 0.2s;}
+.font-title a:hover{color:#2a6496;border-color:#2a6496;}
+.font-red{color:red;}
+
+/* 指引步驟 */
+.processtable .prononework{background:#f1f1f1; border:1px solid #cbcbcb; color:#9c9c9c; }
+.processtable .procurrent{ font-weight:bold; border:1px solid #5e3c01; background:#7f5100; color:#fff;}
+.processtable .profinish{background:#ece9dc; color:#9d9265; border:1px solid #ccc6ad;}
+.processtable .proiconfinish{color:#9d9265;}
+.processtable .proiconcurrent{color:#5e3c01;}
+.processtable .proiconnone{color:#e9e9e9;}
+/* 指引步驟樣式二 */
+.OchiStep li a {color: white;background-color: hsla(0, 0%, 83%, 1);text-align: center;text-transform: capitalize;}
+.OchiStep li.completed a {background:#ece9dc;color:#9d9265;}
+.OchiStep li.completed a:after {border-left: 30px solid #ece9dc;}
+.OchiStep li.active a {background: #7f5100;}
+.OchiStep li.active a:after {border-left: 30px solid #7f5100;}
+.OchiStep li a:before {border-left: 30px solid white;}
+.OchiStep li a:after {border-left: 30px solid hsla(0, 0%, 83%, 1);}
+
+/* 頁籤式按鈕 */
+.tabmenublock{border-bottom:1px solid #d3d3d3;}
+.SlimTabBtnCurrent{background:#FFFFFF; border:1px solid #d3d3d3; border-bottom:0; font-weight:bold;}
+.SlimTabBtn a{color:#975c00; text-decoration:none; background:#ede9d7;border:1px solid #d3d3d3;transition: all ease-in-out 0.2s;}
+.SlimTabBtn a:hover{color:#cd7d00; background:#fff;}
+
+/* 按鈕樣式:一般 */
+a.genbtn,input.genbtn,button.genbtn{
+    border:1px solid #d1d1d1; padding:5px 15px;*padding:5px;_padding:5px;color:#434343; font-size:15px; margin:0px 2px;font-weight:bold;
+    background-color:#fafafa;text-shadow: 1px 1px 1px #fff;
+    background-image: -webkit-linear-gradient(top, #fafafa, #dddddd);
+    background-image: -moz-linear-gradient(top, #fafafa, #dddddd);
+    background-image: -ms-linear-gradient(top, #fafafa, #dddddd);
+    background-image: -o-linear-gradient(top, #fafafa, #dddddd);
+    background-image: linear-gradient(to bottom, #fafafa, #dddddd);
+    -webkit-border-radius:8px;
+    -moz-border-radius:8px;
+    border-radius:8px;
+    transition: all ease-in-out 0.2s;
+}
+a.genbtn:hover,input.genbtn:hover,button.genbtn:hover{
+    cursor:pointer;color:#fff;border:1px solid #232323;text-decoration:none;
+    background-color:#6d6d6d;text-shadow: 1px 1px 1px #000;
+    background-image: -webkit-linear-gradient(top, #6d6d6d, #171717);
+    background-image: -moz-linear-gradient(top, #6d6d6d, #171717);
+    background-image: -ms-linear-gradient(top, #6d6d6d, #171717);
+    background-image: -o-linear-gradient(top, #6d6d6d, #171717);
+    background-image: linear-gradient(to bottom, #6d6d6d, #171717);
+}
+a.genbtnS,input.genbtnS,button.genbtnS{
+    border:1px solid #d1d1d1; padding:3px 15px;*padding:5px;_padding:5px;color:#434343; font-size:12px; margin:0px 2px;font-weight:bold;
+    background-color:#fafafa;text-shadow: 1px 1px 1px #fff;
+    background-image: -webkit-linear-gradient(top, #fafafa, #dddddd);
+    background-image: -moz-linear-gradient(top, #fafafa, #dddddd);
+    background-image: -ms-linear-gradient(top, #fafafa, #dddddd);
+    background-image: -o-linear-gradient(top, #fafafa, #dddddd);
+    background-image: linear-gradient(to bottom, #fafafa, #dddddd);
+    -webkit-border-radius:6px;
+    -moz-border-radius:6px;
+    border-radius:6px;
+    transition: all ease-in-out 0.2s;
+}
+a.genbtnS:hover,input.genbtnS:hover,button.genbtnS:hover{
+    cursor:pointer;color:#fff;border:1px solid #232323;text-decoration:none;
+    background-color:#6d6d6d;text-shadow: 1px 1px 1px #000;
+    background-image: -webkit-linear-gradient(top, #6d6d6d, #171717);
+    background-image: -moz-linear-gradient(top, #6d6d6d, #171717);
+    background-image: -ms-linear-gradient(top, #6d6d6d, #171717);
+    background-image: -o-linear-gradient(top, #6d6d6d, #171717);
+    background-image: linear-gradient(to bottom, #6d6d6d, #171717);
+}
+a.genbtn:hover,a.genbtnS:hover{cursor:pointer;}
+
+input.genbtn{
+    padding:3px 15px;*padding:5px;_padding:5px;
+}
+input.genbtnS{
+    padding:2px 15px;*padding:5px;_padding:5px;
+}
+button.genbtn{
+    padding:3px 15px;*padding:5px;_padding:5px;
+}
+button.genbtnS{
+    padding:2px 15px;*padding:5px;_padding:5px;
+}
+
+/* 輸入框 */
+.inputex{border:1px solid #c5c5c5;transition: all ease-in-out 0.2s;}
+.inputex:hover{border:1px solid #7b7b7b;}
+.inputex:focus{border:1px solid #202020;}
+/* 表單樣式 */
+.gentable table{}
+.gentable th{border-bottom:1px solid #bababa;}
+.gentable td{border-bottom:1px dotted #bababa;}
+.gentable td.titlebg{background:#f1f9f9;}
+.titlebackicon{padding-right:10px; background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='20' %3E%3Ccircle cx='5' cy='6' r='1' fill='rgb(119, 155, 160)' /%3E%3Ccircle cx='5' cy='14' r='1' fill='rgb(119, 155, 160)' /%3E%3C/svg%3E") no-repeat right;}
+
+/* 雙色表格 */
+.stripeMe table{border:1px solid #8f7c66;}
+.stripeMe table tr td{border:1px solid #cac3bb; background-color:#f7f6f2;}
+.stripeMe th{color:#242424; border:1px solid #8f7c66; background:#d4ceb9;}
+.stripeMe th a{color:#1e9798; text-decoration:none;border-bottom: 1px solid transparent;transition: all ease-in-out 0.2s;}
+.stripeMe th a:hover{color:#045051; border-color:#045051;}
+.stripeMe tr.alt td{background-color:#ebe7de;}
+.stripeMe tr td:first-child{border-left-color:#8f7c66;}
+.stripeMe tr th:first-child{border-left-color:#8f7c66;}
+.stripeMe tr td:last-child{border-right-color:#8f7c66;}
+.stripeMe tr th:last-child{border-right-color:#8f7c66;}
+.stripeMe tr:last-child td{border-bottom-color:#8f7c66;}
+.stripeMe tr.spe td{background-color:#FEFBC2;}
+
+/* 雙色表格CSS雙色 */
+.stripeMeCS table{border:1px solid #8f7c66;}
+.stripeMeCS table tr td{border:1px solid #cac3bb; background-color:#fefefc;}
+.stripeMeCS th{color:#242424; border:1px solid #8f7c66; background:#d4ceb9;}
+.stripeMeCS th a{color:#1e9798; text-decoration:none;border-bottom: 1px solid transparent;transition: all ease-in-out 0.2s;}
+.stripeMeCS th a:hover{color:#045051; border-color:#045051;}
+.stripeMeCS tr:nth-child(even) td{background-color:#f3f0ea;}
+.stripeMeCS tr td:first-child{border-left-color:#8f7c66;}
+.stripeMeCS tr th:first-child{border-left-color:#8f7c66;}
+.stripeMeCS tr td:last-child{border-right-color:#8f7c66;}
+.stripeMeCS tr th:last-child{border-right-color:#8f7c66;}
+.stripeMeCS tr:last-child td{border-bottom-color:#8f7c66;}
+.stripeMeCS tr.spe td{background-color:#FEFBC2;}

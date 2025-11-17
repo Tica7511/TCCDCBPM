@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage/MasterPage.master" AutoEventWireup="true" CodeFile="DocManage.aspx.cs" Inherits="WebPage_DocManage" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-    <script src="../page_js/DocManage.js" type="text/javascript"></script>
+    <script src="<%= ResolveUrl("~/page_js/DocManage.js") %>" type="text/javascript"></script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <!--#include file="LeftMenu.html"-->
@@ -13,12 +13,12 @@
           <ol class="breadcrumb bg-transparent">
             <li class="breadcrumb-item"><a href="index.aspx">首頁</a></li>
             <li class="breadcrumb-item active" aria-current="page">公文管理</li>
-            <li class="breadcrumb-item active" aria-current="page">公文列表</li>
+            <li class="breadcrumb-item active" aria-current="page">公文範本管理</li>
           </ol>
         </nav>
     
         <div class="filetitlewrapper mt-1">
-          <span class="filetitle"><h2>公文列表</h2></span>
+          <span class="filetitle"><h2>公文範本管理</h2></span>
           <span class="itemright"></span>
         </div>
 
@@ -28,7 +28,7 @@
           </div>--%>
     
           <div class="card mt-4 mb-2 border-nonfocus">
-              <div class="card-header bg-nonfocus fs-5">公文範本</div>
+              <div class="card-header bg-nonfocus fs-5">公文範本列表</div>
               <div class="card-body">
                 <table id="tablist" class="table small">
                   <thead class="border-bottom border-dark-subtle">

@@ -73,6 +73,7 @@ public partial class handler_file_handler : System.Web.UI.Page
         string parentGuid = (string.IsNullOrEmpty(Request["parentGuid"])) ? "" : Server.HtmlEncode(Request["parentGuid"].ToString().Trim());
         string sn = (string.IsNullOrEmpty(Request["sn"])) ? "" : Server.HtmlEncode(Request["sn"].ToString().Trim());
         string mode = (string.IsNullOrEmpty(Request["mode"])) ? "" : Server.HtmlEncode(Request["mode"].ToString().Trim());
+        string fileRandomGuid = Guid.NewGuid().ToString("N");
         string jwtToken = string.Empty;
         string fguid = string.Empty;
         string fileName = string.Empty;
@@ -93,16 +94,16 @@ public partial class handler_file_handler : System.Web.UI.Page
             fileNewname = dt.Rows[0]["新檔名"].ToString().Trim();
             fileextension = dt.Rows[0]["附檔名"].ToString().Trim();
             version = dt.Rows[0]["版本"].ToString().Trim();
-            jwtToken = GenerateJwt(fguid, parentGuid, version, fileName, fileNewname, fileextension, mode);
+            jwtToken = GenerateJwt(fguid, parentGuid, fileRandomGuid, version, fileName, fileNewname, fileextension, mode);
         }
 
         xmlstr = DataTableToXml.ConvertDatatableToXML(dt, "dataList", "data_item");
         xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "<fileName>" + fileName + fileextension +
-                "</fileName><onlyofficeguid>" + fguid + "</onlyofficeguid><token>" + jwtToken + "</token><mGuid>333" +
+                "</fileName><onlyofficeguid>" + fguid + "</onlyofficeguid><token>" + jwtToken + "</token><fileRandomGuid>" + fileRandomGuid + "</fileRandomGuid><mGuid>333" +
                  "</mGuid><mName>測試人員</mName><parentguid>" + parentGuid + "</parentguid><version>" + version + "</version></root>";
     }
 
-    public static string GenerateJwt(string tmpGuid, string parentguid, string version, string fileName, string fileNewname, string fileextension, string mode)
+    public static string GenerateJwt(string tmpGuid, string parentguid, string fileRandomGuid, string version, string fileName, string fileNewname, string fileextension, string mode)
     {
         bool status = true;
 
@@ -122,7 +123,7 @@ public partial class handler_file_handler : System.Web.UI.Page
             { "document", new Dictionary<string, object>
                 {
                     { "fileType", "docx" },
-                    { "key", tmpGuid + "_" + parentguid + "_" + version },
+                    { "key", tmpGuid + "_" + parentguid + "_" + version + "_" + fileRandomGuid },
                     { "title", fileName + fileextension },
                     { "url", "http://172.20.10.5:7594/DOWNLOAD.aspx?category=Demo&guid=" + tmpGuid}
                 }

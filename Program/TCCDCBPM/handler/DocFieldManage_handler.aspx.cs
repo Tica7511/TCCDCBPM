@@ -8,12 +8,12 @@ using System.Xml;
 using System.Data;
 using System.Runtime.Remoting.Contexts;
 
-public partial class handler_DocMange_handler : System.Web.UI.Page
+public partial class handler_DocFieldManage_handler : System.Web.UI.Page
 {
     XmlDocument xDoc = new XmlDocument();
     string xmlstr = string.Empty;
 
-    DocManage_DB db = new DocManage_DB();
+    DocFieldManage_DB db = new DocFieldManage_DB();
     protected void Page_Load(object sender, EventArgs e)
     {
         try
@@ -27,10 +27,10 @@ public partial class handler_DocMange_handler : System.Web.UI.Page
                     GetList();
                     break;
                 case "rv": // 查詢版本列表
-                    GetDemoVersionList();
+                    //GetDemoVersionList();
                     break;
                 case "rf": // 查詢包含欄位數量的列表
-                    GetIncludeFieldDemoList();
+                    //GetIncludeFieldDemoList();
                     break;
                 case "cu": // 新增修改
                     //Add();
@@ -57,7 +57,7 @@ public partial class handler_DocMange_handler : System.Web.UI.Page
     }
 
     ///-----------------------------------------------------
-    ///功    能: 公文範本管理列表
+    ///功    能: 公文範本欄位定義列表
     ///說    明:
     /// * Request["userid"]:userid
     /// * Request["PageNo"]:欲顯示的頁碼, 由零開始
@@ -72,6 +72,7 @@ public partial class handler_DocMange_handler : System.Web.UI.Page
         //string PageNo = (string.IsNullOrEmpty(Request["PageNo"])) ? "0" : Server.HtmlEncode(Request["PageNo"].ToString().Trim());
         //int PageSize = (string.IsNullOrEmpty(Request["PageSize"])) ? 10 : int.Parse(Server.HtmlEncode(Request["PageSize"].ToString().Trim()));
         //string whereColumn = string.IsNullOrEmpty(Request["whereColumn"]) ? "" : Server.HtmlEncode(Request["whereColumn"].ToString().Trim());
+        string guid = string.IsNullOrEmpty(Request["guid"]) ? "" : Server.HtmlEncode(Request["guid"].ToString().Trim());
         string SearchStr = string.IsNullOrEmpty(Request["SearchStr"]) ? "" : Server.HtmlEncode(Request["SearchStr"].ToString().Trim());
 
         //計算起始與結束
@@ -79,58 +80,12 @@ public partial class handler_DocMange_handler : System.Web.UI.Page
         //int pageStart = pageEnd - PageSize + 1;
 
         db._KeyWord = SearchStr;
+        db._guid = guid;
         DataSet ds = db.GetList();
 
         //string totalxml = "<total>" + ds.Tables[0].Rows[0]["total"].ToString() + "</total>";
         xmlstr = DataTableToXml.ConvertDatatableToXML(ds.Tables[0], "dataList", "data_item");
         //xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + totalxml + xmlstr + "</root>";
-        xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "</root>";
-    }
-
-    ///-----------------------------------------------------
-    ///功    能: 公文範本欄位管理列表
-    ///說    明:
-    /// * Request["userid"]:userid
-    /// * Request["PageNo"]:欲顯示的頁碼, 由零開始
-    /// * Request["PageSize"]:每頁顯示的資料筆數, 未指定預設10
-    /// * Request["WhereColumn"]:下拉搜尋類別
-    /// * Request["SearchStr"]:關鍵字
-    ///-----------------------------------------------------
-    public void GetIncludeFieldDemoList()
-    {
-        //string userid = (string.IsNullOrEmpty(Request["userid"])) ? "" : Server.HtmlEncode(Request["userid"].ToString().Trim());
-        //string useridx = (string.IsNullOrEmpty(Request["useridx"])) ? "" : Server.HtmlEncode(Request["useridx"].ToString().Trim());
-        //string PageNo = (string.IsNullOrEmpty(Request["PageNo"])) ? "0" : Server.HtmlEncode(Request["PageNo"].ToString().Trim());
-        //int PageSize = (string.IsNullOrEmpty(Request["PageSize"])) ? 10 : int.Parse(Server.HtmlEncode(Request["PageSize"].ToString().Trim()));
-        //string whereColumn = string.IsNullOrEmpty(Request["whereColumn"]) ? "" : Server.HtmlEncode(Request["whereColumn"].ToString().Trim());
-        string SearchStr = string.IsNullOrEmpty(Request["SearchStr"]) ? "" : Server.HtmlEncode(Request["SearchStr"].ToString().Trim());
-
-        //計算起始與結束
-        //int pageEnd = (int.Parse(PageNo) + 1) * PageSize;
-        //int pageStart = pageEnd - PageSize + 1;
-
-        db._KeyWord = SearchStr;
-        DataSet ds = db.GetIncludeFieldDemoList();
-
-        //string totalxml = "<total>" + ds.Tables[0].Rows[0]["total"].ToString() + "</total>";
-        xmlstr = DataTableToXml.ConvertDatatableToXML(ds.Tables[0], "dataList", "data_item");
-        //xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + totalxml + xmlstr + "</root>";
-        xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "</root>";
-    }
-
-    ///-----------------------------------------------------
-    ///功    能: 公文範本版本列表
-    ///說    明:
-    /// * Request["guid"]:guid
-    ///-----------------------------------------------------
-    public void GetDemoVersionList()
-    {
-        string guid = string.IsNullOrEmpty(Request["guid"]) ? "" : Server.HtmlEncode(Request["guid"].ToString().Trim());
-
-        db._guid = guid;
-        DataSet ds = db.GetDemoVersionList();
-
-        xmlstr = DataTableToXml.ConvertDatatableToXML(ds.Tables[0], "dataList", "data_item");
         xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "</root>";
     }
 }

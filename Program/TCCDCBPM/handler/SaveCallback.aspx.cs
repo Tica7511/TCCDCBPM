@@ -17,6 +17,7 @@ using System.Linq;
 using Ionic.Zip;
 using System.Xml;
 using System.Web.UI.WebControls;
+using System.Drawing;
 
 public partial class handler_SaveCallback : System.Web.UI.Page
 {
@@ -189,7 +190,8 @@ public partial class handler_SaveCallback : System.Web.UI.Page
 
                 #region 儲存進指定表單資料表
                 // 1. 解析內容控制項
-                var controls = ParseContentControls(filepath + PublicFileFullName + PublicFileExtension);
+                //var controls = ParseContentControls(Path.Combine(filepath, PublicFileName + "_v" + latestVersion + PublicFileExtension));
+                var controls = ParseContentControls(oConn, myTrans, filepath + PublicFileFullName + PublicFileExtension, fileNewGuid);
 
                 // 2. 把 Word 裡的欄位狀況同步到 公文欄位定義表
                 foreach (var c in controls)
@@ -278,7 +280,8 @@ public partial class handler_SaveCallback : System.Web.UI.Page
                 #endregion
 
                 #region 儲存進指定表單資料表
-                var controls = ParseContentControls(Path.Combine(filepath, PublicFileName + "_v" + latestVersion + PublicFileExtension));
+                //var controls = ParseContentControls(Path.Combine(filepath, PublicFileName + "_v" + latestVersion + PublicFileExtension));
+                var controls = ParseContentControls(oConn, myTrans, Path.Combine(filepath, PublicFileName + "_v" + latestVersion + PublicFileExtension), latestFileGuid);
 
                 // 把 Word 的 Tag 全部放入一個 Set
                 HashSet<string> wordTags = new HashSet<string>(controls.Select(c => c.Tag));
@@ -492,21 +495,21 @@ public partial class handler_SaveCallback : System.Web.UI.Page
     {
         public string Tag { get; set; }
         public string Type { get; set; }
+        public string TypeCode { get; set; }
         public string Text { get; set; }
         public List<string> Items { get; set; }
     }
 
-    public List<ContentControlInfo> ParseContentControls(string docxPath)
+    public List<ContentControlInfo> ParseContentControls(SqlConnection conn, SqlTransaction trans, string docxPath, string fileGuid)
     {
         List<ContentControlInfo> result = new List<ContentControlInfo>();
 
         //======================
-        // 1. 開啟 DOCX (ZIP)
+        // 1. 開啟 DOCX
         //======================
         ZipFile zip = ZipFile.Read(docxPath);
 
         ZipEntry docEntry = null;
-
         foreach (ZipEntry e in zip.Entries)
         {
             if (e.FileName.Equals("word/document.xml", StringComparison.OrdinalIgnoreCase))
@@ -520,10 +523,9 @@ public partial class handler_SaveCallback : System.Web.UI.Page
             return result;
 
         //======================
-        // 2. Extract document.xml
+        // 2. Extract XML
         //======================
         XmlDocument xmlDoc = new XmlDocument();
-
         using (MemoryStream ms = new MemoryStream())
         {
             docEntry.Extract(ms);
@@ -538,38 +540,16 @@ public partial class handler_SaveCallback : System.Web.UI.Page
         XmlNodeList sdtList = xmlDoc.SelectNodes("//w:sdt", nsmgr);
 
         //=======================================================
-        // ⭐ Step 0：先掃描所有已存在 tag → 找最大 cc_xxxx
+        // ⭐ Step 0：從資料庫取得最大 ccIndex
         //=======================================================
-        int ccIndex = 1;
+        int dbMaxIndex = GetDbMaxCcIndex(conn, trans, fileGuid);  // 你要自己定義
+        if (dbMaxIndex < 0) dbMaxIndex = 0;
+        int ccIndex = dbMaxIndex + 1;
 
-        foreach (XmlNode sdt in sdtList)
-        {
-            XmlNode tagNode = sdt.SelectSingleNode(".//w:sdtPr/w:tag", nsmgr);
-
-            if (tagNode != null)
-            {
-                XmlAttribute valAttr = tagNode.Attributes["w:val"];
-                if (valAttr != null)
-                {
-                    string tag = valAttr.Value;
-
-                    if (tag != null && tag.StartsWith("cc_"))
-                    {
-                        int number;
-                        string numStr = tag.Substring(3);
-
-                        if (int.TryParse(numStr, out number))
-                        {
-                            if (number >= ccIndex)
-                                ccIndex = number + 1;  // 下一個應用的編號
-                        }
-                    }
-                }
-            }
-        }
+        HashSet<string> usedTags = new HashSet<string>();
 
         //=======================================================
-        // ⭐ Step 1：開始逐一處理每個內容控制項
+        // ⭐ Step 1：逐一處理控制項
         //=======================================================
         foreach (XmlNode sdt in sdtList)
         {
@@ -581,37 +561,62 @@ public partial class handler_SaveCallback : System.Web.UI.Page
             //======================
             // 3. 讀取 tag
             //======================
-            info.Tag = "";
             XmlNode tagNode = sdtPr.SelectSingleNode("./w:tag", nsmgr);
+            string tagValue = "";
 
             if (tagNode != null)
             {
                 XmlAttribute valAttr = tagNode.Attributes["w:val"];
                 if (valAttr != null)
-                    info.Tag = valAttr.Value;
+                    tagValue = valAttr.Value;
+            }
+
+            info.Tag = tagValue;
+
+            bool needNewTag = false;
+
+            //======================
+            // 判斷是否需要新 tag
+            //======================
+
+            // ① 無 tag
+            if (string.IsNullOrWhiteSpace(info.Tag))
+            {
+                needNewTag = true;
+            }
+            // ② XML 内重複（複製貼上）
+            else if (usedTags.Contains(info.Tag))
+            {
+                needNewTag = true;
+            }
+            // ③ DB 裡是已刪除（不准復活）
+            else if (DbTagIsDeleted(conn, trans, fileGuid, info.Tag))
+            {
+                needNewTag = true;
             }
 
             //======================
-            // 4. 無 tag → 自動補 cc_xxxx（使用更新後的 ccIndex）
+            // 4. 需要新 tag → 編新號碼
             //======================
-            if (info.Tag == null || info.Tag.Trim() == "")
+            if (needNewTag)
             {
                 string newTag = "cc_" + ccIndex.ToString("0000");
                 ccIndex++;
 
                 info.Tag = newTag;
+                usedTags.Add(newTag);
 
+                // 寫入 w:tag
                 if (tagNode == null)
                 {
                     XmlElement newTagElement = xmlDoc.CreateElement("w", "tag",
                         "http://schemas.openxmlformats.org/wordprocessingml/2006/main");
 
-                    XmlAttribute valAttr = xmlDoc.CreateAttribute("w", "val",
+                    XmlAttribute newVal = xmlDoc.CreateAttribute("w", "val",
                         "http://schemas.openxmlformats.org/wordprocessingml/2006/main");
+                    newVal.Value = newTag;
 
-                    valAttr.Value = newTag;
-                    newTagElement.Attributes.Append(valAttr);
-
+                    newTagElement.Attributes.Append(newVal);
                     sdtPr.AppendChild(newTagElement);
                 }
                 else
@@ -627,52 +632,107 @@ public partial class handler_SaveCallback : System.Web.UI.Page
                     valAttr.Value = newTag;
                 }
             }
+            else
+            {
+                usedTags.Add(info.Tag);
+            }
+
+            //======================
+            // Step 4-2：更新 alias = tag
+            //======================
+            XmlNode aliasNode = sdtPr.SelectSingleNode("./w:alias", nsmgr);
+            if (aliasNode == null)
+            {
+                XmlElement newAlias = xmlDoc.CreateElement("w", "alias",
+                    "http://schemas.openxmlformats.org/wordprocessingml/2006/main");
+
+                XmlAttribute aliasVal = xmlDoc.CreateAttribute("w", "val",
+                    "http://schemas.openxmlformats.org/wordprocessingml/2006/main");
+                aliasVal.Value = info.Tag;
+
+                newAlias.Attributes.Append(aliasVal);
+                sdtPr.AppendChild(newAlias);
+            }
+            else
+            {
+                XmlAttribute aliasValAttr = aliasNode.Attributes["w:val"];
+                if (aliasValAttr == null)
+                {
+                    aliasValAttr = xmlDoc.CreateAttribute("w", "val",
+                        "http://schemas.openxmlformats.org/wordprocessingml/2006/main");
+                    aliasNode.Attributes.Append(aliasValAttr);
+                }
+
+                aliasValAttr.Value = info.Tag;
+            }
 
             //======================
             // 5. 判斷控制項類型
             //======================
-            info.Type = "";
-            XmlNode cbNode = sdtPr.SelectSingleNode("./w:checkbox", nsmgr);
-            if (cbNode == null)
-                cbNode = sdtPr.SelectSingleNode("./w14:checkbox", nsmgr);
+            info.Type = "text";
 
-            if (cbNode != null) info.Type = "checkbox";
-            else if (sdtPr.SelectSingleNode("./w:dropDownList", nsmgr) != null) info.Type = "dropdown";
-            else if (sdtPr.SelectSingleNode("./w:comboBox", nsmgr) != null) info.Type = "combobox";
-            else if (sdtPr.SelectSingleNode("./w:date", nsmgr) != null) info.Type = "date";
-            else info.Type = "text";
+            XmlNode checkboxNode = sdtPr.SelectSingleNode("./w:checkbox", nsmgr);
+            if (checkboxNode == null)
+                checkboxNode = sdtPr.SelectSingleNode("./w14:checkbox", nsmgr);
+
+            if (checkboxNode != null)
+                info.Type = "checkbox";
+            else if (sdtPr.SelectSingleNode("./w:dropDownList", nsmgr) != null)
+                info.Type = "dropdown";
+            else if (sdtPr.SelectSingleNode("./w:comboBox", nsmgr) != null)
+                info.Type = "combobox";
+            else if (sdtPr.SelectSingleNode("./w:date", nsmgr) != null)
+                info.Type = "date";
+
+            string typeCode = "01";
+            if (ControlTypeMap.ContainsKey(info.Type))
+                typeCode = ControlTypeMap[info.Type];
+
+            info.TypeCode = typeCode;
 
             //======================
-            // 6. 讀取值
+            // 6. 讀取 Text
             //======================
             StringBuilder sb = new StringBuilder();
             XmlNodeList textNodes = sdt.SelectNodes(".//w:t", nsmgr);
 
             foreach (XmlNode t in textNodes)
-                sb.Append(t.InnerText);
+            {
+                if (t != null && t.InnerText != null)
+                    sb.Append(t.InnerText);
+            }
 
             info.Text = sb.ToString();
 
-            // checkbox → 轉 0/1
+            // checkbox → 0/1
             if (info.Type == "checkbox")
             {
                 string raw = "0";
-                XmlNode checkedNode = sdt.SelectSingleNode(".//w14:checkbox/w14:checked", nsmgr);
+
+                XmlNode checkedNode =
+                    sdt.SelectSingleNode(".//w14:checkbox/w14:checked", nsmgr);
 
                 if (checkedNode == null)
                     checkedNode = sdt.SelectSingleNode(".//w:checkbox/w:checked", nsmgr);
 
+                string val = null;
+
                 if (checkedNode != null)
                 {
                     XmlAttribute v1 = checkedNode.Attributes["w14:val"];
-                    XmlAttribute v2 = checkedNode.Attributes["w:val"];
+                    if (v1 != null && v1.Value != null)
+                        val = v1.Value;
 
-                    string val = "0";
-                    if (v1 != null) val = v1.Value;
-                    if (v2 != null) val = v2.Value;
-
-                    raw = (val == "1") ? "1" : "0";
+                    if (val == null)
+                    {
+                        XmlAttribute v2 = checkedNode.Attributes["w:val"];
+                        if (v2 != null && v2.Value != null)
+                            val = v2.Value;
+                    }
                 }
+
+                if (val == "1")
+                    raw = "1";
 
                 info.Text = raw;
             }
@@ -681,14 +741,22 @@ public partial class handler_SaveCallback : System.Web.UI.Page
         }
 
         //======================
-        // 7. ⭐ 寫回 docx
+        // 7. 寫回 docx
         //======================
-        string newXml = xmlDoc.OuterXml;
-        zip.UpdateEntry("word/document.xml", newXml, Encoding.UTF8);
+        zip.UpdateEntry("word/document.xml", xmlDoc.OuterXml, Encoding.UTF8);
         zip.Save();
 
         return result;
     }
+
+    private static Dictionary<string, string> ControlTypeMap = new Dictionary<string, string>
+    {
+        { "text", "01" },
+        { "checkbox", "02" },
+        { "dropdown", "03" },
+        { "combobox", "04" },
+        { "date", "05" }
+    };
 
     private string GetSqlTypeByControlType(string controlType)
     {
@@ -721,6 +789,46 @@ public partial class handler_SaveCallback : System.Web.UI.Page
         DataTable dt = new DataTable();
         da.Fill(dt);
         return dt.Rows.Count > 0 ? dt.Rows[0] : null;
+    }
+
+    private int GetDbMaxCcIndex(SqlConnection conn, SqlTransaction trans, string fileGuid)
+    {
+        string sql = @"
+        SELECT MAX(CAST(SUBSTRING(項目代碼, 4, 4) AS INT)) as maxSn
+        FROM 公文欄位定義表 WHERE guid = @fileGuid
+    ";
+
+        SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+        da.SelectCommand.Transaction = trans;
+        da.SelectCommand.Parameters.AddWithValue("@fileGuid", fileGuid);
+
+        DataTable dt = new DataTable();
+        da.Fill(dt);
+        return dt.Rows.Count > 0 ? Convert.ToInt32(dt.Rows[0]["maxSn"].ToString()) : 0;
+
+        
+    }
+
+    private bool DbTagIsDeleted(SqlConnection conn, SqlTransaction trans, string fileGuid, string tag)
+    {
+        string sql = @"
+        SELECT 是否已刪除 
+        FROM 公文欄位定義表 
+        WHERE guid=@fileGuid AND 項目代碼=@tag
+    ";
+
+        SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+        da.SelectCommand.Transaction = trans;
+        da.SelectCommand.Parameters.AddWithValue("@fileGuid", fileGuid);
+        da.SelectCommand.Parameters.AddWithValue("@tag", tag);
+
+        DataTable dt = new DataTable();
+        da.Fill(dt);
+
+        if (dt.Rows.Count == 0)
+            return false; // DB 裡沒有 → 視為未刪除（新控制項）
+
+        return dt.Rows[0]["是否已刪除"].ToString() == "1";
     }
 
     private void InsertFieldDef(SqlConnection conn, SqlTransaction trans,
