@@ -32,6 +32,9 @@ public partial class handler_DocMange_handler : System.Web.UI.Page
                 case "rf": // 查詢包含欄位數量的列表
                     GetIncludeFieldDemoList();
                     break;
+                case "rm": // 查詢menu階層
+                    GetMenuList();
+                    break;
                 case "cu": // 新增修改
                     //Add();
                     break;
@@ -131,6 +134,25 @@ public partial class handler_DocMange_handler : System.Web.UI.Page
         DataSet ds = db.GetDemoVersionList();
 
         xmlstr = DataTableToXml.ConvertDatatableToXML(ds.Tables[0], "dataList", "data_item");
+        xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "</root>";
+    }
+
+    ///-----------------------------------------------------
+    ///功    能: 公文範本欄位管理列表
+    ///說    明:
+    /// * Request["parentguid"]:父層guid
+    /// * Request["rank"]:階層
+    ///-----------------------------------------------------
+    public void GetMenuList()
+    {
+        string parentguid = (string.IsNullOrEmpty(Request["parentguid"])) ? "" : Server.HtmlEncode(Request["parentguid"].ToString().Trim());
+        string rank = (string.IsNullOrEmpty(Request["rank"])) ? "" : Server.HtmlEncode(Request["rank"].ToString().Trim());
+
+        db._父層guid = parentguid;
+        db._階層 = rank;
+        DataTable ds = db.GetMenuList();
+
+        xmlstr = DataTableToXml.ConvertDatatableToXML(ds, "dataList", "data_item");
         xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "</root>";
     }
 }

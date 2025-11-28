@@ -5,6 +5,7 @@
 //取得資料庫檔案
 function getData() {
     var crud = $.getQueryString("filetype");
+    var guid = $.getQueryString("guid");
     var parentGuid = $.getQueryString("parentGuid");
     var sn = $.getQueryString("sn");
     var mode = $.getQueryString("mode");
@@ -18,6 +19,7 @@ function getData() {
         url: "../handler/file_handler.aspx",
         data: {
             crud: crud, 
+            guid: guid, 
             parentGuid: parentGuid,
             sn: sn,
             mode: mode
@@ -35,6 +37,7 @@ function getData() {
                 if ($(data).find("data_item").length > 0) {
                     $(data).find("data_item").each(function (i) {
                         console.log("後端回傳檔案名：", $("fileName", data).text());
+                        const fileCategory = $("filecategory", data).text();
                         const fileName = $("fileName", data).text();
                         const fileNewName = $("fileNewName", data).text();
                         const authToken = $("token", data).text();
@@ -52,9 +55,9 @@ function getData() {
                         var editorConfig = {
                             "document": {
                                 "fileType": "docx",
-                                "key": onlyofficeguid + '_' + parentguid + '_' + version + '_' + fileRandomGuid, //附件guid + 父層guid + 版本 + 隨機guid
+                                "key": onlyofficeguid + '_' + parentguid + '_' + version + '_' + crud + '_' + fileRandomGuid, //附件guid + 父層guid + 版本 + 隨機guid
                                 "title": fileName,
-                                "url": "http://172.20.10.5:7594/DOWNLOAD.aspx?category=Demo&guid=" + onlyofficeguid
+                                "url": "http://172.20.10.5:7594/DOWNLOAD.aspx?category=" + fileCategory + "&guid=" + onlyofficeguid
                             },
                             "documentType": "word",
                             "editorConfig": {

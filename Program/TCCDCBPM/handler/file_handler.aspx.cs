@@ -29,13 +29,13 @@ public partial class handler_file_handler : System.Web.UI.Page
             switch (crud)
             {
                 case "demo": // 範本
-                    GetDemoList();
+                    GetDemoList(crud);
                     break;
-                case "rd": // 查詢單筆
-                    //GetDetail();
+                case "new": // 新增公文
+                    GetDoc(crud);
                     break;
-                case "rj": // 查詢工程
-                    //GetJobList();
+                case "rf": // 查詢公文範本檔案
+                    GetFileList();
                     break;
                 case "cu": // 新增修改
                     //Add();
@@ -47,7 +47,7 @@ public partial class handler_file_handler : System.Web.UI.Page
                     //Delete();
                     break;
                 default: // 查詢
-                    GetDemoList();
+                    GetDemoList(crud);
                     break;
             }
 
@@ -62,14 +62,55 @@ public partial class handler_file_handler : System.Web.UI.Page
     }
 
     ///-----------------------------------------------------
-    ///功    能: 附件詳細資料
+    ///功    能: 取得公文資料
     ///說    明:
     /// * Request["guid"]:guid
     /// * Request["mode"]: edit=編輯, view=檢視
     ///-----------------------------------------------------
-    public void GetDemoList()
+    public void GetDoc(string filetype)
     {
         string guid = (string.IsNullOrEmpty(Request["guid"])) ? "" : Server.HtmlEncode(Request["guid"].ToString().Trim());
+        string mode = (string.IsNullOrEmpty(Request["mode"])) ? "" : Server.HtmlEncode(Request["mode"].ToString().Trim());
+        string fileRandomGuid = Guid.NewGuid().ToString("N");
+        string parentGuid = string.Empty;
+        string jwtToken = string.Empty;
+        string fguid = string.Empty;
+        string fileName = string.Empty;
+        string fileNewname = string.Empty;
+        string fileextension = string.Empty;
+        string version = string.Empty;
+        string filecategory = string.Empty;
+
+        fdb._guid = guid;
+        fdb._檔案類型 = "02";
+        DataTable dt = fdb.GetSnMaxData();
+
+        if (dt.Rows.Count > 0)
+        {
+            fguid = dt.Rows[0]["guid"].ToString().Trim();
+            parentGuid = dt.Rows[0]["父層guid"].ToString().Trim();
+            fileName = dt.Rows[0]["原檔名"].ToString().Trim();
+            fileNewname = dt.Rows[0]["新檔名"].ToString().Trim();
+            fileextension = dt.Rows[0]["附檔名"].ToString().Trim();
+            version = dt.Rows[0]["版本"].ToString().Trim();
+            filecategory = "File";
+            jwtToken = GenerateJwt(filecategory, filetype, fguid, parentGuid, fileRandomGuid, version, fileName, fileNewname, fileextension, mode);
+        }
+
+        xmlstr = DataTableToXml.ConvertDatatableToXML(dt, "dataList", "data_item");
+        xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "<filecategory>" + filecategory + "</filecategory><fileName>" + fileName + fileextension +
+                "</fileName><onlyofficeguid>" + fguid + "</onlyofficeguid><token>" + jwtToken + "</token><fileRandomGuid>" + fileRandomGuid + "</fileRandomGuid><mGuid>333" +
+                 "</mGuid><mName>測試人員</mName><parentguid>" + parentGuid + "</parentguid><version>" + version + "</version></root>";
+    }
+
+    ///-----------------------------------------------------
+    ///功    能: 取得公文範本資料
+    ///說    明:
+    /// * Request["guid"]:guid
+    /// * Request["mode"]: edit=編輯, view=檢視
+    ///-----------------------------------------------------
+    public void GetDemoList(string filetype)
+    {
         string parentGuid = (string.IsNullOrEmpty(Request["parentGuid"])) ? "" : Server.HtmlEncode(Request["parentGuid"].ToString().Trim());
         string sn = (string.IsNullOrEmpty(Request["sn"])) ? "" : Server.HtmlEncode(Request["sn"].ToString().Trim());
         string mode = (string.IsNullOrEmpty(Request["mode"])) ? "" : Server.HtmlEncode(Request["mode"].ToString().Trim());
@@ -80,6 +121,7 @@ public partial class handler_file_handler : System.Web.UI.Page
         string fileNewname = string.Empty;
         string fileextension = string.Empty;
         string version = string.Empty;
+        string filecategory = string.Empty;
 
         fdb._父層guid = parentGuid;
         fdb._檔案類型 = "01";
@@ -94,16 +136,39 @@ public partial class handler_file_handler : System.Web.UI.Page
             fileNewname = dt.Rows[0]["新檔名"].ToString().Trim();
             fileextension = dt.Rows[0]["附檔名"].ToString().Trim();
             version = dt.Rows[0]["版本"].ToString().Trim();
-            jwtToken = GenerateJwt(fguid, parentGuid, fileRandomGuid, version, fileName, fileNewname, fileextension, mode);
+            filecategory = "Demo";
+            jwtToken = GenerateJwt(filecategory, filetype, fguid, parentGuid, fileRandomGuid, version, fileName, fileNewname, fileextension, mode);
         }
 
         xmlstr = DataTableToXml.ConvertDatatableToXML(dt, "dataList", "data_item");
-        xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "<fileName>" + fileName + fileextension +
+        xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "<filecategory>" + filecategory + "</filecategory><fileName>" + fileName + fileextension +
                 "</fileName><onlyofficeguid>" + fguid + "</onlyofficeguid><token>" + jwtToken + "</token><fileRandomGuid>" + fileRandomGuid + "</fileRandomGuid><mGuid>333" +
                  "</mGuid><mName>測試人員</mName><parentguid>" + parentGuid + "</parentguid><version>" + version + "</version></root>";
     }
 
-    public static string GenerateJwt(string tmpGuid, string parentguid, string fileRandomGuid, string version, string fileName, string fileNewname, string fileextension, string mode)
+    ///-----------------------------------------------------
+    ///功    能: 取得公文範本列表
+    ///說    明:
+    /// * Request["parentguid"]:父層guid
+    ///-----------------------------------------------------
+    public void GetFileList()
+    {
+        string parentguid = (string.IsNullOrEmpty(Request["parentguid"])) ? "" : Server.HtmlEncode(Request["parentguid"].ToString().Trim());
+
+        fdb._父層guid = parentguid;
+        fdb._檔案類型 = "01";
+        DataTable dt = fdb.GetMaxData();
+
+        xmlstr = DataTableToXml.ConvertDatatableToXML(dt, "dataList", "data_item");
+        xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "</root>";
+    }
+
+    ///-----------------------------------------------------
+    ///功    能: 取得 onlyoffice JWT token
+    ///說    明:
+    ///-----------------------------------------------------
+    public static string GenerateJwt(string filecategory, string filetype, string fileguid, string parentguid, 
+        string fileRandomGuid, string version, string fileName, string fileNewname, string fileextension, string mode)
     {
         bool status = true;
 
@@ -123,9 +188,9 @@ public partial class handler_file_handler : System.Web.UI.Page
             { "document", new Dictionary<string, object>
                 {
                     { "fileType", "docx" },
-                    { "key", tmpGuid + "_" + parentguid + "_" + version + "_" + fileRandomGuid },
+                    { "key", fileguid + "_" + parentguid + "_" + version + "_" + filetype + "_" + fileRandomGuid },
                     { "title", fileName + fileextension },
-                    { "url", "http://172.20.10.5:7594/DOWNLOAD.aspx?category=Demo&guid=" + tmpGuid}
+                    { "url", "http://172.20.10.5:7594/DOWNLOAD.aspx?category="+ filecategory +"&guid=" + fileguid}
                 }
             },
             { "documentType", "word" },

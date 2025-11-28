@@ -19,6 +19,7 @@ public class DocSaveLog_DB
     string guid = string.Empty;
     string 狀態 = string.Empty;
     string 類別 = string.Empty;
+    string 版本 = string.Empty;
     string 建立者 = string.Empty;
     DateTime 建立日期;
     string 修改者 = string.Empty;
@@ -30,6 +31,7 @@ public class DocSaveLog_DB
     public string _guid { set { guid = value; } }
     public string _狀態 { set { 狀態 = value; } }
     public string _類別 { set { 類別 = value; } }
+    public string _版本 { set { 版本 = value; } }
     public string _建立者 { set { 建立者 = value; } }
     public DateTime _建立日期 { set { 建立日期 = value; } }
     public string _修改者 { set { 修改者 = value; } }
@@ -45,6 +47,7 @@ insert into 公文儲存log (
 guid,
 狀態,
 類別,
+版本,
 建立者,
 修改者,
 資料狀態
@@ -52,6 +55,7 @@ guid,
 @guid,
 @狀態,
 @類別,
+@版本,
 @建立者,
 @修改者,
 @資料狀態 
@@ -63,6 +67,7 @@ guid,
         oCmd.Parameters.AddWithValue("@guid", guid);
         oCmd.Parameters.AddWithValue("@狀態", 狀態);
         oCmd.Parameters.AddWithValue("@類別", 類別);
+        oCmd.Parameters.AddWithValue("@版本", 版本);
         oCmd.Parameters.AddWithValue("@建立者", 建立者);
         oCmd.Parameters.AddWithValue("@修改者", 修改者);
         oCmd.Parameters.AddWithValue("@資料狀態", "A");

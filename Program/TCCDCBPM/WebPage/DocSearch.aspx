@@ -1,8 +1,8 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage/MasterPage.master" AutoEventWireup="true" CodeFile="DocFieldManage.aspx.cs" Inherits="WebPage_DocFieldManage" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage/MasterPage.master" AutoEventWireup="true" CodeFile="DocSearch.aspx.cs" Inherits="WebPage_DocSearch" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <link rel="stylesheet" href="<%= ResolveUrl("~/css/OchiLayout.css") %>" />
-    <script src="<%= ResolveUrl("~/page_js/DocFieldManage.js") %>" type="text/javascript"></script>
+    <script src="<%= ResolveUrl("~/page_js/DocSearch.js") %>" type="text/javascript"></script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <!--#include file="LeftMenu.html"-->
@@ -18,29 +18,29 @@
                 <ol class="breadcrumb bg-transparent">
                     <li class="breadcrumb-item"><a href="index.aspx">首頁</a></li>
                     <li class="breadcrumb-item active" aria-current="page">公文管理</li>
-                    <li class="breadcrumb-item active" aria-current="page">公文範本欄位管理</li>
+                    <li class="breadcrumb-item active" aria-current="page">公文查詢</li>
                 </ol>
             </nav>
 
             <div class="filetitlewrapper mt-1">
                 <span class="filetitle">
-                    <h2>公文範本欄位管理</h2>
+                    <h2>公文列表查詢</h2>
                 </span>
                 <span class="itemright"></span>
             </div>
 
             <div class="card mt-4 mb-2 border-nonfocus">
-                <div class="card-header bg-nonfocus fs-5">公文範本列表</div>
+                <div class="card-header bg-nonfocus fs-5">公文列表</div>
                 <div class="card-body">
                     <table id="tablist" class="table small">
                         <thead class="border-bottom border-dark-subtle">
                             <tr>
-                                <th>範本名稱</th>
-                                <th>目前版本</th>
-                                <th>所屬類別</th>
-                                <th>欄位數</th>
-                                <th>修改者</th>
-                                <th>修改日期</th>
+                                <th>表單名稱</th>
+                                <th>表單編號</th>
+                                <th>主旨</th>
+                                <th>申請日期</th>
+                                <th>表單狀態</th>
+                                <th>欄位內容</th>
                                 <th class="text-center">功能</th>
                             </tr>
                         </thead>
@@ -58,8 +58,8 @@
     <!-- flex-grow-1 -->
 
     <!-- Magnific Popup -->
-    <div id="mp_field" class="magpopup magSizeM mfp-hide">
-        <div class="magpopupTitle"><span id="mp_filename"></span> 欄位編輯</div>
+    <div id="mp_filesearch" class="magpopup magSizeM mfp-hide">
+        <div class="magpopupTitle"><span id="mp_filename"></span> 欄位內容查詢</div>
         <div class="padding10ALL">
             <div class="twocol">
                 <div class="left font-size5 ">
@@ -71,13 +71,12 @@
                 </div>
             </div><br />
             <div class="stripeMeB tbover">
-                <table id="tablistField" border="0" cellspacing="0" cellpadding="0" width="100%">
+                <table id="tablistFileSearch" border="0" cellspacing="0" cellpadding="0" width="100%">
                     <thead>
                         <tr>
-                            <th class="align-middle text-center">欄位代碼</th>
-                            <th class="align-middle text-center" width="30%">欄位名稱</th>
-                            <th class="align-middle text-center">欄位類別</th>
-                            <th class="align-middle text-center" width="10%">是否刪除</th>
+                            <th class="align-middle text-center">項目代碼</th>
+                            <th class="align-middle text-center">項目名稱</th>
+                            <th class="align-middle text-center">項目內容</th>
                         </tr>
                     </thead>
                     <tbody></tbody>
@@ -88,4 +87,6 @@
     </div>
     <!--magpopup -->
 </asp:Content>
+
+
 

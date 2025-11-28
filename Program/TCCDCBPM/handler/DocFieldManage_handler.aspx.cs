@@ -7,6 +7,7 @@ using System.Web.UI.WebControls;
 using System.Xml;
 using System.Data;
 using System.Runtime.Remoting.Contexts;
+using System.IO;
 
 public partial class handler_DocFieldManage_handler : System.Web.UI.Page
 {
@@ -33,7 +34,7 @@ public partial class handler_DocFieldManage_handler : System.Web.UI.Page
                     //GetIncludeFieldDemoList();
                     break;
                 case "cu": // 新增修改
-                    //Add();
+                    Add();
                     break;
                 case "cuv": // 承攬商修改申訴
                     //AddVendor();
@@ -51,6 +52,8 @@ public partial class handler_DocFieldManage_handler : System.Web.UI.Page
         catch (Exception ex)
         {
             xDoc = ExceptionUtil.GetExceptionDocument(ex);
+            Common.InsertLogs(Path.GetFileNameWithoutExtension(Page.AppRelativeVirtualPath),
+                    System.Reflection.MethodBase.GetCurrentMethod().Name, "錯誤：" + ex.Message + "\r\n" + ex.StackTrace);
         }
         Response.ContentType = System.Net.Mime.MediaTypeNames.Text.Xml;
         xDoc.Save(Response.Output);
@@ -86,6 +89,26 @@ public partial class handler_DocFieldManage_handler : System.Web.UI.Page
         //string totalxml = "<total>" + ds.Tables[0].Rows[0]["total"].ToString() + "</total>";
         xmlstr = DataTableToXml.ConvertDatatableToXML(ds.Tables[0], "dataList", "data_item");
         //xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + totalxml + xmlstr + "</root>";
-        xmlstr = "<?xml version='1.0' encoding='utf-8'?><root>" + xmlstr + "</root>";
+        xmlstr = "<?xml version='1.0' encoding='utf-8'?><root><fguid>" + guid + "</fguid>" + xmlstr + "</root>";
+    }
+
+    ///-----------------------------------------------------
+    ///功    能: 編輯 公文範本欄位名稱
+    ///說    明:
+    /// * Request["fguid"]: guid
+    /// * Request["atypecode"]: 項目代碼 
+    /// * Request["atypename"]: 項目名稱 
+    ///-----------------------------------------------------
+    public void Add()
+    {
+        string fguid = (string.IsNullOrEmpty(Request["fguid"])) ? "" : Server.HtmlEncode(Request["fguid"].ToString().Trim());
+        string atypecode = (string.IsNullOrEmpty(Request["atypecode"])) ? "" : Server.HtmlEncode(Request["atypecode"].ToString().Trim());
+        string atypename = (string.IsNullOrEmpty(Request["atypename"])) ? "" : Server.HtmlEncode(Request["atypename"].ToString().Trim());
+
+        db._guid = fguid;
+        db._項目代碼 = atypecode;
+        db._項目名稱 = atypename;
+
+        db.UpdateFieldName();
     }
 }

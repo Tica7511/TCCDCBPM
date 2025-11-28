@@ -20,6 +20,8 @@ public class FileTable_DB
     string 父層guid = string.Empty;
     string 年度 = string.Empty;
     string 檔案類型 = string.Empty;
+    string 表單名稱 = string.Empty;
+    string 表單編號 = string.Empty;
     string 原檔名 = string.Empty;
     string 新檔名 = string.Empty;
     string 附檔名 = string.Empty;
@@ -38,6 +40,8 @@ public class FileTable_DB
     public string _父層guid { set { 父層guid = value; } }
     public string _年度 { set { 年度 = value; } }
     public string _檔案類型 { set { 檔案類型 = value; } }
+    public string _表單名稱 { set { 表單名稱 = value; } }
+    public string _表單編號 { set { 表單編號 = value; } }
     public string _原檔名 { set { 原檔名 = value; } }
     public string _新檔名 { set { 新檔名 = value; } }
     public string _附檔名 { set { 附檔名 = value; } }
@@ -112,6 +116,31 @@ ORDER BY CONVERT(int,版本) DESC ");
         return ds;
     }
 
+    public DataTable GetMaxData()
+    {
+        SqlCommand oCmd = new SqlCommand();
+        oCmd.Connection = new SqlConnection(ConfigurationManager.AppSettings["ConnectionString"]);
+        StringBuilder sb = new StringBuilder();
+
+        sb.Append(@"
+  select * 
+from 附件檔 
+where 資料狀態='A' and (@檔案類型='' or 檔案類型=@檔案類型) 
+and (父層guid='' or 父層guid=@父層guid) and 版本=(select max(convert(int,版本)) from 附件檔 where 父層guid=@父層guid)
+");
+
+        oCmd.CommandText = sb.ToString();
+        oCmd.CommandType = CommandType.Text;
+        SqlDataAdapter oda = new SqlDataAdapter(oCmd);
+        DataTable ds = new DataTable();
+
+        oCmd.Parameters.AddWithValue("@檔案類型", 檔案類型);
+        oCmd.Parameters.AddWithValue("@父層guid", 父層guid);
+
+        oda.Fill(ds);
+        return ds;
+    }
+
     public void UpdateFile_Trans(SqlConnection oConn, SqlTransaction oTran)
     {
         StringBuilder sb = new StringBuilder();
@@ -121,6 +150,8 @@ guid,
 父層guid,
 年度,
 檔案類型,
+表單名稱,
+表單編號,
 原檔名,
 新檔名, 
 附檔名, 
@@ -135,6 +166,8 @@ guid,
 @父層guid,
 @年度,
 @檔案類型,
+@表單名稱,
+@表單編號,
 @原檔名,
 @新檔名, 
 @附檔名, 
@@ -153,6 +186,8 @@ guid,
         oCmd.Parameters.AddWithValue("@年度", 年度);
         oCmd.Parameters.AddWithValue("@父層guid", 父層guid);
         oCmd.Parameters.AddWithValue("@檔案類型", 檔案類型);
+        oCmd.Parameters.AddWithValue("@表單名稱", 表單名稱);
+        oCmd.Parameters.AddWithValue("@表單編號", 表單編號);
         oCmd.Parameters.AddWithValue("@原檔名", 原檔名);
         oCmd.Parameters.AddWithValue("@新檔名", 新檔名);
         oCmd.Parameters.AddWithValue("@附檔名", 附檔名);
@@ -179,6 +214,8 @@ guid,
 父層guid,
 年度,
 檔案類型,
+表單名稱,
+表單編號,
 原檔名,
 新檔名, 
 附檔名, 
@@ -193,6 +230,8 @@ guid,
 @父層guid,
 @年度,
 @檔案類型,
+@表單名稱,
+@表單編號,
 @原檔名,
 @新檔名, 
 @附檔名, 
@@ -213,6 +252,8 @@ guid,
         oCmd.Parameters.AddWithValue("@年度", 年度);
         oCmd.Parameters.AddWithValue("@父層guid", 父層guid);
         oCmd.Parameters.AddWithValue("@檔案類型", 檔案類型);
+        oCmd.Parameters.AddWithValue("@表單名稱", 表單名稱);
+        oCmd.Parameters.AddWithValue("@表單編號", 表單編號);
         oCmd.Parameters.AddWithValue("@原檔名", 原檔名);
         oCmd.Parameters.AddWithValue("@新檔名", 新檔名);
         oCmd.Parameters.AddWithValue("@附檔名", 附檔名);

@@ -8,6 +8,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Web.UI.WebControls;
 using System.Drawing;
+using System.IdentityModel.Protocols.WSTrust;
 
 namespace ED.HR.DOWNLOAD.WebForm
 {
@@ -52,11 +53,25 @@ namespace ED.HR.DOWNLOAD.WebForm
 
                         isWord = true;
                         break;
+                    case "File":
+                        dirPath = "公文\\";
+                        Fdb._guid = guid;
+                        dt = Fdb.GetSnMaxData();
+
+                        if (dt.Rows.Count > 0)
+                        {
+                            dirPath += dt.Rows[0]["guid"].ToString().Trim() + "\\" + dt.Rows[0]["新檔名"].ToString().Trim() + dt.Rows[0]["附檔名"].ToString().Trim();
+                        }
+
+                        isWord = true;
+                        break;
                 }
 
                 //原檔名
                 //OrgName = Common.FilterCheckMarxString(Request.QueryString["v"]);
                 string finalPath = Path.Combine(UpLoadPath, dirPath);
+
+                File.AppendAllText(Server.MapPath("~/log-callback.txt"), DateTime.Now + "\nfinalPath=" + finalPath + "\n\n");
 
                 // 附件目錄
                 //if (isWord == true)

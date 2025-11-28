@@ -7,21 +7,21 @@
     });
 
     //編輯
-    $(document).on("click", "a[name='editbtn']", function () {
+    $(document).on("click", "a[name='searchbtn']", function () {
         $("#mp_filename").html($(this).attr("afilename"));
         $("#h_Guid").val($(this).attr("aGuid"));
         $("#h_parentGuid").val($(this).attr("aparentGuid"));
         $("#h_version").val($(this).attr("aversion"));
         $("#h_nowVersion").val($(this).attr("aversion"));
         getVersionList($("#h_Guid").val());
-        $("#mgsellist").val($("#h_Guid").val());
-        getVersionData($("#h_Guid").val());
+        $("#mgsellist").val($("#h_nowVersion").val());
+        getVersionData($("#h_Guid").val(), $("#h_nowVersion").val());
         doOpenMagPopup();
     });
 
     //選擇版本
     $(document).on("change", "#mgsellist", function () {
-        getVersionData($("#mgsellist option:selected").val());
+        getVersionData($("#h_Guid").val() ,$("#mgsellist option:selected").val());
     });
 
     //項目名稱 編輯按鈕
@@ -98,9 +98,9 @@ function getData() {
     $.ajax({
         type: "POST",
         async: false, //在沒有返回值之前,不會執行下一步動作
-        url: "../handler/DocMange_handler.aspx",
+        url: "../handler/Doc_handler.aspx",
         data: {
-            crud: "rf",
+            crud: "r",
             //userid: $("#ContentPlaceHolder1_userid").val(),
             //useridx: $("#ContentPlaceHolder1_useridx").val(),
             //PageNo: p,
@@ -123,21 +123,20 @@ function getData() {
                     var Table_Select = false;
                     $(data).find("data_item").each(function (i) {
                         tabstr += Table_Select ? '<tr class="Table_Select">' : '<tr>';
-                        tabstr += '<td class="align-middle">' + $(this).children("範本名稱").text().trim() + '</td>';
-                        tabstr += '<td class="align-middle text-center">' + $(this).children("目前版本").text().trim() + '</td>';
-                        tabstr += '<td class="align-middle">' + $(this).children("lv1").text().trim() + ' > ' + $(this).children("lv2").text().trim();
-                        if ($(this).children("lv3").text().trim() != '')
-                            tabstr += ' > ' + $(this).children("lv3").text().trim();
-                        tabstr += '</td>';
-                        tabstr += '<td class="align-middle text-center">' + $(this).children("欄位數").text().trim() + '</td>';
-                        tabstr += '<td class="align-middle text-center">' + $(this).children("最後修改者").text().trim() + '</td>';
-                        tabstr += '<td class="align-middle">' + $(this).children("最後修改時間").text().trim() + '</td>';
-                        tabstr += '<td class="text-center"><div class="btn-group btn-group-sm" role="group">';
-                        tabstr += '<a href="javascript:void(0);" name="editbtn" aparentGuid="' + $(this).children("類別guid").text().trim()
-                            + '" aversion="' + $(this).children("目前版本").text().trim() + '" afilename="' + $(this).children("範本名稱").text().trim()
-                            + '" aGuid="' + $(this).children("附件guid").text().trim() + '" class="btn btn-outline-dark">編輯</a> ';
-                        tabstr += '<a target="_blank" href="DocManageAdd.aspx?filetype=demo&mode=view&parentGuid='
-                            + $(this).children("類別guid").text().trim() + '&sn=' + $(this).children("附件排序").text().trim()
+                        tabstr += '<td class="align-middle">' + $(this).children("表單名稱").text().trim() + '</td>';
+                        tabstr += '<td class="align-middle">' + $(this).children("表單編號").text().trim() + '</td>';
+                        tabstr += '<td class="align-middle">' + $(this).children("主旨").text().trim() + '</td>';
+                        tabstr += '<td class="align-middle">' + $(this).children("上傳日期").text().trim() + '</td>';
+                        tabstr += '<td class="align-middle">' + $(this).children("表單狀態_V").text().trim() + '</td>';
+                        tabstr += '<td class="align-middle text-center"><div class="btn-group btn-group-sm" role="group">';
+                        tabstr += '<a href="javascript:void(0);" name="searchbtn" aparentGuid="' + $(this).children("類別guid").text().trim()
+                            + '" aversion="' + $(this).children("版本").text().trim() + '" afilename="' + $(this).children("表單名稱").text().trim()
+                            + '-' + $(this).children("主旨").text().trim() + '" aGuid="' + $(this).children("公文guid").text().trim()
+                            + '" class="btn btn-outline-dark">查詢</a> ';
+                        tabstr += '</div></td>';
+                        tabstr += '<td class="align-middle text-center"><div class="btn-group btn-group-sm" role="group">';
+                        tabstr += '<a target="_blank" href="DocManageAdd.aspx?filetype=new&mode=view&guid=' + $(this).children("公文guid").text().trim() + '&parentGuid='
+                            + $(this).children("父層guid").text().trim() + '&sn=' + $(this).children("排序").text().trim()
                             + '" class="btn btn-outline-success">預覽</a>';
                         tabstr += '</div></td></tr>';
                         Table_Select = !Table_Select;
@@ -155,14 +154,15 @@ function getData() {
     });
 }
 
-function getVersionData(guid) {
+function getVersionData(guid, version) {
     $.ajax({
         type: "POST",
         async: false, //在沒有返回值之前,不會執行下一步動作
-        url: "../handler/DocFieldManage_handler.aspx",
+        url: "../handler/Doc_handler.aspx",
         data: {
-            crud: "r",
+            crud: "rvd",
             guid: guid,
+            version: version
             //userid: $("#ContentPlaceHolder1_userid").val(),
             //useridx: $("#ContentPlaceHolder1_useridx").val(),
             //PageNo: p,
@@ -179,7 +179,7 @@ function getVersionData(guid) {
                 alert($(data).find("Error").attr("Message"));
             }
             else {
-                $("#tablistField tbody").empty();
+                $("#tablistFileSearch tbody").empty();
                 var tabstr = '';
                 if ($(data).find("data_item").length > 0) {
                     var Table_Select = false;
@@ -190,28 +190,28 @@ function getVersionData(guid) {
                         var version = $(this).children("版本").text().trim();
                         tabstr += Table_Select ? '<tr class="Table_Select">' : '<tr>';
                         tabstr += '<td>' + $(this).children("項目代碼").text().trim() + '</td>';
-                        tabstr += '<td>';
-                        if (version == $("#h_nowVersion").val()) {
-                            tabstr += '<span name="sp_typecode_' + typecode + '">' + typeName + '</span>'
-                                + '<input style="display:none;" type="text" class="inputex width60" name="txt_typecode_' + typecode + '" value="' + typeName + '"/>'
-                                + ' <a id="a_editbtn_' + typecode + '" name="a_editbtn" atypecode="' + typecode + '" href="javascript:void(0);">編輯</a>'
-                                + '<a id="a_delbtn_' + typecode + '" style="display:none;" href="javascript:void(0);" atypecode="' + typecode + '" name="a_delbtn">返回</a> '
-                                + '<a id="a_save_' + typecode + '" style="display:none;" href="javascript:void(0);" atypecode="' + typecode + '" name="a_save">儲存</a>';
-                        }
-                        else {
-                            tabstr += $(this).children("項目名稱").text().trim();
-                        }
-                        tabstr += '</td>';
-                        tabstr += '<td>' + $(this).children("項目類型_V").text().trim() + '</td>';                        
-                        tabstr += '<td>' + $(this).children("是否已刪除_V").text().trim() + '</td>';
+                        //tabstr += '<td>';
+                        //if (version == $("#h_nowVersion").val()) {
+                        //    tabstr += '<span name="sp_typecode_' + typecode + '">' + typeName + '</span>'
+                        //        + '<input style="display:none;" type="text" class="inputex width60" name="txt_typecode_' + typecode + '" value="' + typeName + '"/>'
+                        //        + ' <a id="a_editbtn_' + typecode + '" name="a_editbtn" atypecode="' + typecode + '" href="javascript:void(0);">編輯</a>'
+                        //        + '<a id="a_delbtn_' + typecode + '" style="display:none;" href="javascript:void(0);" atypecode="' + typecode + '" name="a_delbtn">返回</a> '
+                        //        + '<a id="a_save_' + typecode + '" style="display:none;" href="javascript:void(0);" atypecode="' + typecode + '" name="a_save">儲存</a>';
+                        //}
+                        //else {
+                        //    tabstr += $(this).children("項目名稱").text().trim();
+                        //}
+                        //tabstr += '</td>';
+                        tabstr += '<td>' + $(this).children("項目名稱").text().trim() + '</td>';
+                        tabstr += '<td>' + $(this).children("項目內容").text().trim() + '</td>';
                         tabstr += '</tr>';
                         Table_Select = !Table_Select;
                     });
                 }
                 else
-                    tabstr += '<tr><td colspan="4">目前版本尚無任何內容控制項</td></tr>';
+                    tabstr += '<tr><td colspan="3">目前版本尚無任何內容控制項</td></tr>';
 
-                $("#tablistField tbody").append(tabstr);
+                $("#tablistFileSearch tbody").append(tabstr);
 
                 //Page.Option.Selector = "#pageblock";
                 //Page.CreatePage(p, $("total", data).text());
@@ -224,7 +224,7 @@ function getVersionList(guid) {
     $.ajax({
         type: "POST",
         async: false, //在沒有返回值之前,不會執行下一步動作
-        url: "../handler/DocMange_handler.aspx",
+        url: "../handler/Doc_handler.aspx",
         data: {
             crud: "rv",
             guid: guid
@@ -242,7 +242,7 @@ function getVersionList(guid) {
                 var ddlstr = '';
                 if ($(data).find("data_item").length > 0) {
                     $(data).find("data_item").each(function (i) {
-                        ddlstr += '<option value="' + $(this).children("guid").text().trim() + '">第' + $(this).children("版本").text().trim() + '版</option>'
+                        ddlstr += '<option value="' + $(this).children("版本").text().trim() + '">第' + $(this).children("版本").text().trim() + '版</option>'
                     });
                 }
                 $("#mgsellist").append(ddlstr);
@@ -254,7 +254,7 @@ function getVersionList(guid) {
 function doOpenMagPopup() {
     $.magnificPopup.open({
         items: {
-            src: '#mp_field'
+            src: '#mp_filesearch'
         },
         type: 'inline',
         midClick: false, // 是否使用滑鼠中鍵
